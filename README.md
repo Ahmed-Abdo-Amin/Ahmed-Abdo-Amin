@@ -35,7 +35,10 @@
 - [Glaucoma Detection Using Fudous Images And Convolution Neural Network](https://github.com/Ahmed-Abdo-Amin/Glaucoma_Detection_Using_Fudous_Images_And_Convolution_Neural_Network)
 - [A prediction of customer churn rate in the telecom industry and determination of the associations between items purchased.](https://github.com/Ahmed-Abdo-Amin/A_prediction_of_customer_churn_rate_and_-the_associations_between_items_purchased)
 - [Build RDBMS using SQL Server and Data Warehousing using SQL Server and R Language and Market-Basket-Analysis (MBA)](https://github.com/Ahmed-Abdo-Amin/RDBMS-SQLData-Warehousing-OLAP)
- 
+
+### Kaggle-Competitions
+- [Spaceship_Titanic] (https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
+- [ELG7186 - Assignment 2] (https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
 
 ### Machine Learning (ML):
 - [Network Intrusion Detection using Deep Learning](https://github.com/Ahmed-Abdo-Amin/Machine_learning_Project_Detect_anomalies_using_Deep_learning-main)
