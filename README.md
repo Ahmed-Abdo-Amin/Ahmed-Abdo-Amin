@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Abdo.</h1>
+<h1 align="center">Hi 👋, My name's Ahmed Abdo.</h1>
 <div id="header" align="center">
   <img src=".\Images_pre\Data.gif" width="250" style="border-radius:31%"/>
 </div>
