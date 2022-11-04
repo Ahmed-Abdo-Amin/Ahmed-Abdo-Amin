@@ -37,6 +37,7 @@
 - [Build RDBMS using SQL Server and Data Warehousing using SQL Server and R Language and Market-Basket-Analysis (MBA)](https://github.com/Ahmed-Abdo-Amin/RDBMS-SQLData-Warehousing-OLAP)
 
 ### Kaggle-Competitions
+- [Data-Modeling-with-Apache-Cassandra](https://github.com/Ahmed-Abdo-Amin/Data-Modeling-with-Apache-Cassandra-main)
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/RDBMS-SQLData-Warehousing-OLAP](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
 - [ELG7186 - Assignment 2]([https://github.com/Ahmed-Abdo-Amin/RDBMS-SQLData-Warehousing-OLAP](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard))
 
