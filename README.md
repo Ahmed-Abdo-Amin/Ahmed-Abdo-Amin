@@ -51,7 +51,7 @@
 - [Gutenberg Book Classification (Classification-Is-All-You-Need)](https://github.com/Ahmed-Abdo-Amin/Text_Classification_The_Gutenbergs-_books)
 - [Gutenberg Book Clustering (Clustering-Is-All-You-Need)](https://github.com/Ahmed-Abdo-Amin/Text_Clustering_The_Gutenbergs-_books)
 - [ChatBot For Movie Recommendation system](https://github.com/Ahmed-Abdo-Amin/Movie_Recommendation_system)
--[Manipulating the data ("Gutenberg's couple of digital books") and serializing them.](https://github.com/Ahmed-Abdo-Amin/TextDataPartitioning)
+- [Manipulating the data ("Gutenberg's couple of digital books") and serializing them.](https://github.com/Ahmed-Abdo-Amin/TextDataPartitioning)
 
 ### Smart Cities :
 - [Machine learning approach to identify fake tasks](https://github.com/Ahmed-Abdo-Amin/machine-learning-ML-approaches-to-identify-fake-tasks-main)
