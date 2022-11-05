@@ -34,7 +34,7 @@
 ### Databases and Data Warehousing in Data Science :
 - [Glaucoma Detection Using Fudous Images And Convolution Neural Network](https://github.com/Ahmed-Abdo-Amin/Glaucoma_Detection_Using_Fudous_Images_And_Convolution_Neural_Network)
 - [A prediction of customer churn rate in the telecom industry and determination of the associations between items purchased.](https://github.com/Ahmed-Abdo-Amin/A_prediction_of_customer_churn_rate_and_-the_associations_between_items_purchased)
-- [Build RDBMS using SQL Server and Data Warehousing using SQL Server and R Language and Market-Basket-Analysis (MBA)](https://github.com/Ahmed-Abdo-Amin/RDBMS-SQLData-Warehousing-OLAP)
+- [Build RDBMS using SQL Server and Data Warehousing using SQL Server and R Language in Market-Basket-Analysis (MBA)](https://github.com/Ahmed-Abdo-Amin/RDBMS-SQLData-Warehousing-OLAP)
 
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
