@@ -62,7 +62,7 @@
 
 ### Computer Vision (CV):
 - [Applying Machine Learning Models To Image Classification (the Cifar10 dataset)](https://github.com/Ahmed-Abdo-Amin/ApplyingMachineLearningModelsToImageClassification)
-- [Applying Deep learning models to image classification (Caltech-UCSD Birds-200-2011)](https://github.com/Ahmed-Abdo-Amin/ApplyingDeepLearningModelsToImageClassification)
+- [Applying Deep learning Models to Image Classification (Caltech-UCSD Birds-200-2011)](https://github.com/Ahmed-Abdo-Amin/ApplyingDeepLearningModelsToImageClassification)
 
 ### Reinforcement Learning (RL):
 - [Atari Games using Q-Learning](https://github.com/Ahmed-Abdo-Amin/Atari_Games_using_Q-Learning_ReinforcementLearning)
