@@ -61,7 +61,7 @@
 - [A Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/Ahmed-Abdo-Amin/A-Fake-Task-Filtering-Security-Layer-using-CGAN-Conditional-GAN)
 
 ### Computer Vision (CV):
---loading........
+- [Applying Machine Learning Models To Image Classification (the Cifar10 dataset)](git@github.com:Ahmed-Abdo-Amin/ApplyingMachineLearningModelsToImageClassification.git)
 
 ### Reinforcement Learning (RL):
 - [Atari Games using Q-Learning](https://github.com/Ahmed-Abdo-Amin/Atari_Games_using_Q-Learning_ReinforcementLearning)
