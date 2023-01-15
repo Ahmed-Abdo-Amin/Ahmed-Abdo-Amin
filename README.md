@@ -61,10 +61,10 @@
 - [A Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/Ahmed-Abdo-Amin/A-Fake-Task-Filtering-Security-Layer-using-CGAN-Conditional-GAN)
 
 ### Computer Vision (CV):
+- [Sports Products Multi-Class Classification](https://github.com/Ahmed-Abdo-Amin/SportsProductsMulti-ClassClassification)
 - [Applying Machine Learning Models To Image Classification (the Cifar10 dataset)](https://github.com/Ahmed-Abdo-Amin/ApplyingMachineLearningModelsToImageClassification)
 - [Applying Deep Learning Models to Image Classification (Caltech-UCSD Birds-200-2011)](https://github.com/Ahmed-Abdo-Amin/ApplyingDeepLearningModelsToImageClassification)
 - [Applying Regularization and Data Augmentation on CNN Model to Image Classification (Leaf counting dataset)](https://github.com/Ahmed-Abdo-Amin/ApplyingRegularization-DataAugmentationOnCNNModelToImageClassification)
-- [Sports Products Multi-Class Classification](https://github.com/Ahmed-Abdo-Amin/SportsProductsMulti-ClassClassification)
 
 ### Reinforcement Learning (RL):
 - [Atari Games using Q-Learning](https://github.com/Ahmed-Abdo-Amin/Atari_Games_using_Q-Learning_ReinforcementLearning)
