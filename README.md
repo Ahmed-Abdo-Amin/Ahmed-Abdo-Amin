@@ -67,7 +67,7 @@
 - [Applying Regularization and Data Augmentation on CNN Model to Image Classification (Leaf counting dataset)](https://github.com/Ahmed-Abdo-Amin/ApplyingRegularization-DataAugmentationOnCNNModelToImageClassification)
 
 ### AI For Cyber Security (CV):
-- [Detecting malicious Website Using its URL](https://github.com/Ahmed-Abdo-Amin/DetectingmaliciousWebsiteUsingitsURL)
+- [Detecting malicious Website Using its URL](https://github.com/Ahmed-Abdo-Amin/DetectingmaliciousWebsiteUsingitsURL1)
 
 ### Reinforcement Learning (RL):
 - [Atari Games using Q-Learning](https://github.com/Ahmed-Abdo-Amin/Atari_Games_using_Q-Learning_ReinforcementLearning)
