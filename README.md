@@ -68,6 +68,7 @@
 
 ### AI For Cyber Security (CV):
 - [Detecting malicious Website Using its URL](https://github.com/Ahmed-Abdo-Amin/DetectingmaliciousWebsiteUsingitsURL1)
+- [Predicting data exfiltration via DNS](https://github.com/Ahmed-Abdo-Amin/PredictingdataexfiltrationviaDNS)
 
 ### Reinforcement Learning (RL):
 - [Atari Games using Q-Learning](https://github.com/Ahmed-Abdo-Amin/Atari_Games_using_Q-Learning_ReinforcementLearning)
