@@ -84,12 +84,12 @@
 
 # Additional Activities
 ### Technical Certificates:
-02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM
-03/2022 Big Data Engineer 2021 Mastery Award, IBM
-04/2022 Artificial Intelligence Analyst 2021 Mastery Exam, IBM
-04/2022 Dale Carnegie
-04/2022 English, Berlitz
-11/2022 SQL Basic, HackerRank
+02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM <br/>
+03/2022 Big Data Engineer 2021 Mastery Award, IBM<br/>
+04/2022 Artificial Intelligence Analyst 2021 Mastery Exam, IBM<br/>
+04/2022 Dale Carnegie<br/>
+04/2022 English, Berlitz<br/>
+11/2022 SQL Basic, HackerRank<br/>
 ### Practice:
 - Problem Solving  
 ### Competition:
