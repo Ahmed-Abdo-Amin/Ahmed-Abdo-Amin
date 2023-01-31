@@ -2,7 +2,12 @@
 <div id="header" align="center">
   <img src=".\Images_pre\Data.gif" width="250" style="border-radius:31%"/>
 </div>
-<h3 align="center"> Data Engineer| Machine learning Engineer | Data scientist | AI Master's Student at the University of Ottawa, Canada</h3>
+<h3 align="center"> Data Engineer| Machine learning Engineer | Data scientist</h3>
+<h3 align="center"> 
+<strong>University of Ottawa, Canada</strong><br/>
+	Maste of Electrical Engineering | Major: Data Science and AI. <br/>
+	Graduation Project: “End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect”.<br/>
+</h3>
 <h3 align="center"> 
 <strong>Faculty of Computers and Information, Zagazig</strong><br/>
 	Bachelor of Computers and informatics | Major: Computer Science | Grade: very good with honor. <br/>
@@ -78,13 +83,17 @@
 - [Atari Games using Q-Learning](https://github.com/Ahmed-Abdo-Amin/Atari_Games_using_Q-Learning_ReinforcementLearning)
 
 # Additional Activities
+### Technical Certificates:
+02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM
+03/2022 Big Data Engineer 2021 Mastery Award, IBM
+04/2022 Artificial Intelligence Analyst 2021 Mastery Exam, IBM
+04/2022 Dale Carnegie
+04/2022 English, Berlitz
+11/2022 SQL Basic, HackerRank
 ### Practice:
 - Problem Solving  
 ### Competition:
 --
 ### Desktop Application
---
-### Technical Certificates:
---
 ### Online Courses:
 --
