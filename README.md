@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src=".\Images_pre\Data.gif" width="250" style="border-radius:31%"/>
 </div>
-<h3 align="center"> Data Engineer| Machine learning Engineer | Data scientist</h3>
+<h3 align="center"> Data Engineer| Machine learning Engineer | Data Science Engineer</h3>
 <h3 align="center"> 
 <strong>University of Ottawa, Canada</strong><br/>
 	Master of Electrical Engineering | Major: Data Science and AI. <br/>
