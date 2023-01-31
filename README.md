@@ -7,6 +7,7 @@
 <strong>University of Ottawa, Canada</strong><br/>
 	Master of Electrical Engineering | Major: Data Science and AI. <br/>
 	Graduation Project: “End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect”.<br/>
+	Sponsor: Microsoft
 </h3>
 <h3 align="center"> 
 <strong>Faculty of Computers and Information, Zagazig</strong><br/>
