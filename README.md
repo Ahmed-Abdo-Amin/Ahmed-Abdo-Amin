@@ -33,9 +33,11 @@
 - uOttawa:
 [End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect](https://github.com/Ahmed-Abdo-Amin/End-to-EndSpeechTranslationofContemporaryEgyptianArabicDialect1)
 
+### Cloud Analytics
+[Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
+
 ### Data Engineer Nano-Degree using AWS Cloud from Udacity :
-- [Data-Modeling-with-Apache-Cassandra](https://github.com/Ahmed-Abdo-Amin/Data-Modeling-with-Apache-Cassandra-main)
-- [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
+----loading ............
  
 ### Data Engineer Specialization By IBM From Coursera :
 ----loading ............
