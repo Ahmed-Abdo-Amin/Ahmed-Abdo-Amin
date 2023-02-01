@@ -69,8 +69,8 @@
 
 ### Computer Vision (CV):
 - [Sports Products Multi-Class Classification](https://github.com/Ahmed-Abdo-Amin/SportsProductsMulti-ClassClassification)
-- [Applying Machine Learning Models To Image Classification (the Cifar10 dataset)](https://github.com/Ahmed-Abdo-Amin/ApplyingMachineLearningModelsToImageClassification)
 - [Glaucoma Detection Using Fudous Images And Convolution Neural Network](https://github.com/Ahmed-Abdo-Amin/Glaucoma_Detection_Using_Fudous_Images_And_Convolution_Neural_Network)
+- [Applying Machine Learning Models To Image Classification (the Cifar10 dataset)](https://github.com/Ahmed-Abdo-Amin/ApplyingMachineLearningModelsToImageClassification)
 - [Applying Deep Learning Models to Image Classification (Caltech-UCSD Birds-200-2011)](https://github.com/Ahmed-Abdo-Amin/ApplyingDeepLearningModelsToImageClassification)
 - [Applying Regularization and Data Augmentation on CNN Model to Image Classification (Leaf counting dataset)](https://github.com/Ahmed-Abdo-Amin/ApplyingRegularization-DataAugmentationOnCNNModelToImageClassification)
 
