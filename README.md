@@ -81,6 +81,9 @@
 ### Reinforcement Learning (RL):
 - [Atari Games using Q-Learning](https://github.com/Ahmed-Abdo-Amin/Atari_Games_using_Q-Learning_ReinforcementLearning)
 
+### Speech Recognition
+- [Speech Recognition for Arabic Words](https://www.kaggle.com/code/ahmedabdoamin/speech-recognition-for-arabic-words)
+
 # Additional Activities
 ### Technical Certificates:
 02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM <br/>
