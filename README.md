@@ -36,6 +36,9 @@
 ### Cloud Analytics
 [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
 
+### Informatica Tutorial: Beginner to Expert Level from Udacity :
+----loading ............
+
 ### Data Engineer Nano-Degree using AWS Cloud from Udacity :
 ----loading ............
  
