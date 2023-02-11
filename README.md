@@ -89,7 +89,7 @@
 
 # Additional Activities
 ### Problem Solving (https://codeforces.com/)
-- A. Vanya and Fence [Details here](http://codeforces.com/contest/677/problem/A) --> [Solved here](https://codeforces.com/contest/677/submission/193214034)
+- A. Vanya and Fence [Click here to see the details](http://codeforces.com/contest/677/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/677/submission/193214034)
 - 
 ### Technical Certificates:
 02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM <br/>
