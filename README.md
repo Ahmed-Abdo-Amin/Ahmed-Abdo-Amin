@@ -88,6 +88,9 @@
 - [Speech Recognition for Arabic Words](https://www.kaggle.com/code/ahmedabdoamin/speech-recognition-for-arabic-words) | Predict Arabic words by wav files.
 
 # Additional Activities
+### Problem Solving (https://codeforces.com/)
+- [A. Vanya and Fence](http://codeforces.com/contest/677/problem/A) --> [Solved here](https://codeforces.com/contest/677/submission/193214034)
+- 
 ### Technical Certificates:
 02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM <br/>
 03/2022 Big Data Engineer 2021 Mastery Award, IBM<br/>
@@ -96,9 +99,6 @@
 04/2022 English, Berlitz<br/>
 11/2022 SQL Basic, HackerRank<br/>
 
-### Problem Solving (https://codeforces.com/)
-- [A. Vanya and Fence](http://codeforces.com/contest/677/problem/A) --> [Solved here](https://codeforces.com/contest/677/submission/193214034)
-- 
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
 - [ELG7186 - Assignment 2](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
