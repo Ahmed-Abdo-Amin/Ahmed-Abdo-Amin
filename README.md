@@ -96,7 +96,8 @@
 04/2022 English, Berlitz<br/>
 11/2022 SQL Basic, HackerRank<br/>
 ### Practice:
-- Problem Solving  
+- Problem Solving (https://codeforces.com/)
+--> [A. Vanya and Fence](http://codeforces.com/contest/677/problem/A) [Solved](193214034)
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
 - [ELG7186 - Assignment 2](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
