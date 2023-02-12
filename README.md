@@ -89,8 +89,9 @@
 
 # Additional Activities
 ### Problem Solving (https://codeforces.com/)
-- A. Vanya and Fence [Click here to see the details](http://codeforces.com/contest/677/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/677/submission/193214034)
-- 
+1. A. Vanya and Fence [Click here to see the details](http://codeforces.com/contest/677/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/677/submission/193214034)
+2. A. Anton and Danik [Click here to see the details](https://codeforces.com/contest/734/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/734/submission/193317595)
+3. 
 ### Technical Certificates:
 02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM <br/>
 03/2022 Big Data Engineer 2021 Mastery Award, IBM<br/>
