@@ -45,6 +45,8 @@
 ### Data Engineer Specialization By IBM From Coursera :
 ----loading ............
   
+### Spark from Udacity [Click here to go this Course](https://learn.udacity.com/courses/ud2002)
+- [MapReduce versus Hadoop MapReduce](https://github.com/Ahmed-Abdo-Amin/MapReduceversusHadoopMapReduce)
 
 ### Databases and Data Warehousing in Data Science :
 - [A prediction of customer churn rate in the telecom industry and determination of the associations between items purchased.](https://github.com/Ahmed-Abdo-Amin/A_prediction_of_customer_churn_rate_and_-the_associations_between_items_purchased)
