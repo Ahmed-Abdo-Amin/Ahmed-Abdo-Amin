@@ -100,7 +100,8 @@
 6. A. Gravity Flip  [Click here to see the details](https://codeforces.com/contest/405/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/405/submission/193724385)
 7. A - Petya and Strings [Click here to see the details](https://codeforces.com/contest/112/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/112/submission/193820889)
 8. A - Boy or Girl [Click here to see the details](https://codeforces.com/contest/236/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/236/submission/193980589)
-9. 
+9. A - Word [Click here to see the details](https://codeforces.com/contest/59/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/59/submission/194095420)
+10. 
 ### Technical Certificates:
 02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM <br/>
 03/2022 Big Data Engineer 2021 Mastery Award, IBM<br/>
@@ -108,11 +109,11 @@
 04/2022 Dale Carnegie<br/>
 04/2022 English, Berlitz<br/>
 11/2022 SQL Basic, HackerRank<br/>
+2/2023  Scripting with Python and SQL for Data Engineering, Coursera [Click here to see the details](https://coursera.org/share/f9374652e7ee41149cc0d416d2f7fc5a)<br/>
 
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
 - [ELG7186 - Assignment 2](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
 
-### Desktop Application
 ### Online Courses:
 --
