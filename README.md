@@ -109,7 +109,7 @@
 04/2022 Artificial Intelligence Analyst 2021 Mastery Exam, IBM<br/>
 04/2022 Dale Carnegie<br/>
 04/2022 English, Berlitz<br/>
-11/2022 SQL Basic, HackerRank<br/>
+11/2022 SQL Basic, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/fc0d41ee4294)<br/>
 02/2023 Scripting with Python and SQL for Data Engineering, Coursera [Click here to see the details](https://coursera.org/share/f9374652e7ee41149cc0d416d2f7fc5a)<br/>
 
 ### Kaggle-Competitions
