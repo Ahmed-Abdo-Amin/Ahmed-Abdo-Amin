@@ -104,7 +104,8 @@
 10. A - Word Capitalization [Click here to see the details](https://codeforces.com/contest/281/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/281/submission/194100980)
 11. A - Magnets [Click here to see the details](https://codeforces.com/contest/344/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/344/submission/194186313)
 12. A - Sereja and Dima [Click here to see the details](https://codeforces.com/contest/381/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/381/submission/194314228)
-13. 
+13. A - Stones on the Table [Click here to see the details](https://codeforces.com/contest/266/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/266/submission/194434072)
+14. 
 ### Technical Certificates:
 02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM <br/>
 03/2022 Big Data Engineer 2021 Mastery Award, IBM<br/>
