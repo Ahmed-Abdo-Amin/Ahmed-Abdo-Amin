@@ -4,7 +4,7 @@
 </div>
 <h3 align="center"> Data Engineer| Machine learning Engineer | Data Science Engineer</h3>
 <h3 align="center"> 
-<img width="48" src="https://media.licdn.com/dms/image/C4D0BAQFSLFXkFWUVDQ/company-logo_100_100/0/1643647478678?e=1684972800&amp;v=beta&amp;t=DOhbj1NLFFwBb2z9UmbFx7xonR3SxRRc5F9l46PaeNg" loading="lazy" height="20" alt="University of Ottawa logo" id="ember6660" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+<img width="25" src="https://media.licdn.com/dms/image/C4D0BAQFSLFXkFWUVDQ/company-logo_100_100/0/1643647478678?e=1684972800&amp;v=beta&amp;t=DOhbj1NLFFwBb2z9UmbFx7xonR3SxRRc5F9l46PaeNg" loading="lazy" height="20" alt="University of Ottawa logo" id="ember6660" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
 <strong>University of Ottawa, Canada</strong><br/>
 	Master of Electrical Engineering | Major: Data Science and AI. <br/>
 	Graduation Project: “End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect”.<br/>
