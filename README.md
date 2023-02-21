@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/ahmed-abdo-amin-abdo-b17193213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-abdo-amin-abdo-b17193213/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ahmedabdoamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmedabdoamin" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ahmedabdoamin997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 </p>
 
@@ -91,7 +91,7 @@
 - [Speech Recognition for Arabic Words](https://www.kaggle.com/code/ahmedabdoamin/speech-recognition-for-arabic-words) | Predict Arabic words by wav files.
 
 # Additional Activities
-### Problem Solving (https://codeforces.com/)
+### Problem Solving ([click here to go my codefocres profile ](https://codeforces.com/profile/ahmedabdoamin997))
 1. A. Vanya and Fence [Click here to see the details](http://codeforces.com/contest/677/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/677/submission/193214034)
 2. A. Anton and Danik [Click here to see the details](https://codeforces.com/contest/734/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/734/submission/193317595)
 3. 791A - Bear and Big Brother [Click here to see the details](https://codeforces.com/problemset/problem/791/A) --> [Click here to see the solution](https://codeforces.com/problemset/submission/791/193446956)
