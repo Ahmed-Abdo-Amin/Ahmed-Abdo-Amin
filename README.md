@@ -110,9 +110,9 @@
 13. A - Stones on the Table [Click here to see the details](https://codeforces.com/contest/266/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/266/submission/194434072)
 14. 
 ### Technical Certificates:
-02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM <br/>
-03/2022 Big Data Engineer 2021 Mastery Award, IBM<br/>
-04/2022 Artificial Intelligence Analyst 2021 Mastery Exam, IBM<br/>
+02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/8a4aa04b-4299-4617-b7ea-146116801199)<br/>
+03/2022 Big Data Engineer 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/12edf4dd-3cfe-4ea1-ba75-dc8b256450c3)<br/>
+04/2022 Artificial Intelligence Analyst 2021 Mastery Exam, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/d1e36ac9-18b6-41fd-a7b3-fbfc947a5d2a)<br/>
 04/2022 Dale Carnegie<br/>
 04/2022 English, Berlitz<br/>
 11/2022 SQL Basic, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/fc0d41ee4294)<br/>
