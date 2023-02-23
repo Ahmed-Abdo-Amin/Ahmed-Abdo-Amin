@@ -110,17 +110,8 @@
 14. A - Police Recruits [Click here to see the details](https://codeforces.com/contest/427/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/427/submission/194552039)
 15. A - Black Square [Click here to see the details](https://codeforces.com/contest/431/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/431/submission/194652077)
 
-### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
+### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQL<span style="color:black">Bolt</span>](https://sqlbolt.com/) <br/>
      - Learn SQL with simple, interactive exercises.
-     <div class="header">
-            <a href="/" class="site_logo" title="Home">
-                <img src="/cs/images/favicon.png" alt="SQLBolt icon">
-            </a>
-            <a href="/" class="site_name" title="Home">
-                <span>SQL<span class="highlight">Bolt</span></span><br>
-                <span class="desc hide-max-md">Learn SQL with simple, interactive exercises.</span>
-            </a>
-        </div>
      
      
      
