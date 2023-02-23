@@ -108,7 +108,8 @@
 12. A - Sereja and Dima [Click here to see the details](https://codeforces.com/contest/381/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/381/submission/194314228)
 13. A - Stones on the Table [Click here to see the details](https://codeforces.com/contest/266/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/266/submission/194434072)
 14. A - Police Recruits [Click here to see the details](https://codeforces.com/contest/427/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/427/submission/194552039)
-15. 
+15. A - Black Square [Click here to see the details](https://codeforces.com/contest/431/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/431/submission/194652077)
+16. 
 ### Technical Certificates:
 02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/8a4aa04b-4299-4617-b7ea-146116801199)<br/>
 03/2022 Big Data Engineer 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/12edf4dd-3cfe-4ea1-ba75-dc8b256450c3)<br/>
