@@ -111,7 +111,20 @@
 15. A - Black Square [Click here to see the details](https://codeforces.com/contest/431/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/431/submission/194652077)
 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
-     #### - Learn SQL with simple, interactive exercises.
+     - Learn SQL with simple, interactive exercises.
+     <div class="header">
+            <a href="/" class="site_logo" title="Home">
+                <img src="/cs/images/favicon.png" alt="SQLBolt icon">
+            </a>
+            <a href="/" class="site_name" title="Home">
+                <span>SQL<span class="highlight">Bolt</span></span><br>
+                <span class="desc hide-max-md">Learn SQL with simple, interactive exercises.</span>
+            </a>
+        </div>
+     
+     
+     
+     
 ### Technical Certificates:
 02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/8a4aa04b-4299-4617-b7ea-146116801199)<br/>
 03/2022 Big Data Engineer 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/12edf4dd-3cfe-4ea1-ba75-dc8b256450c3)<br/>
