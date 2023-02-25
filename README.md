@@ -111,7 +111,8 @@
 14. A - Police Recruits [Click here to see the details](https://codeforces.com/contest/427/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/427/submission/194552039)
 15. A - Black Square [Click here to see the details](https://codeforces.com/contest/431/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/431/submission/194652077)
 16. A - Night at the Museum [Click here to see the details](https://codeforces.com/contest/731/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/731/submission/194763048)
-17. 
+17. A - Games [Click here to see the details](https://codeforces.com/contest/268/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/268/submission/194894792)
+18. 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
 ### Technical Certificates:
