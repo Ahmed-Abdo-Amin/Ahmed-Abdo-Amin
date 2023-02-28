@@ -135,3 +135,13 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 
 ### Online Courses:
 --
+### 📈 GitHub Stats 
+
+[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdo-Amin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=jarkal555&layout=compact&langs_count=10](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdo-Amin&layout=compact&langs_count=10))](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdo-Amin&theme=blue-green">
+
+<p align="center" style='margin:20px'> <img src="https://komarev.com/ghpvc/?username=Ahmed-Abdo-Amin&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Abdo-Amin" width='200'/> </p>
+
+
