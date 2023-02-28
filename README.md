@@ -138,4 +138,6 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 --
 ### 📈 GitHub Stats 
 
-[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdo-Amin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdo-Amin&theme=blue-green" align="right">
+[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdo-Amin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdo-Amin&theme=dark&hide_border=true)<br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdo-Amin&theme=blue-green" align="right">
+
