@@ -137,16 +137,9 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 ### Online Courses:
 --
 ### 📈 GitHub Stats 
-
-<div>
-	<span align="left">
-		[![AB's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdo-Amin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-	</span>
-	<span align="right">
-		![AB's streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdo-Amin&theme=dark&hide_border=true)
-	</span>
-	
-</div>
-
+- [![AB's github stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Abdo-Amin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<hr/>
+- ![AB's streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Abdo-Amin&theme=dark&hide_border=true)
+<hr/>
 <br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Abdo-Amin&theme=blue-green">
 
