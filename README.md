@@ -130,6 +130,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 11/2022 SQL Basic, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/fc0d41ee4294)<br/>
 02/2023 Scripting with Python and SQL for Data Engineering, Coursera [Click here to see the details](https://coursera.org/share/f9374652e7ee41149cc0d416d2f7fc5a)<br/>
 02/2023 Stanford Machine Learning | Online, Coursera [Click here to see the details](https://coursera.org/share/0cc4fb600f17c11d389a26ceb6a27763)<br/>
+02/2023 Problem Solving (Basic) Certificate[Click here to see the details](https://www.hackerrank.com/certificates/ae2ab0c4004b)<br>
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
 - [ELG7186 - Assignment 2](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
