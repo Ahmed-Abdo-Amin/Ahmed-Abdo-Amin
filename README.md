@@ -41,12 +41,13 @@
 ### Cloud Analytics
 [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
 
+### Data Engineer Nano-Degree using AWS Cloud from Udacity :
+- [Data Modeling with Postgres](https://github.com/Ahmed-Abdo-Amin/UDACITY-DataEngineeringNanodegree/blob/main/1.Module01-DataModeling/Project_Data_Modeling_with_Postgres) | Analyzing the songs of Sparkify by applying data modelling with Postgres and building an ETL pipeline using Python.
+----loading ............
+
 ### Informatica Tutorial: Beginner to Expert Level from Udemy [From This Link](https://www.udemy.com/course/informatica-tutorial-beginner-to-expert-level/) :
 ----loading ............
 
-### Data Engineer Nano-Degree using AWS Cloud from Udacity :
-----loading ............
- 
 ### Data Engineer Specialization By IBM From Coursera :
 ----loading ............
   
