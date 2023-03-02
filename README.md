@@ -119,7 +119,8 @@
 20. A - Colorful Stones (Simplified Edition)  [Click here to see the details](https://codeforces.com/contest/265/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/265/submission/195114775)
 21. A - Die Roll [Click here to see the details](https://codeforces.com/contest/9/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/9/submission/195238967)
 22. A - Shaass and Oskols [Click here to see the details](https://codeforces.com/contest/294/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/294/submission/195422244)
-23. 
+23. A - Juicer [Click here to see the details](https://codeforces.com/contest/709/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/709/submission/195543338)
+24. 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
 ### Technical Certificates:
