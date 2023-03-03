@@ -43,7 +43,7 @@
 
 ### Data Engineer Nano-Degree using AWS Cloud from Udacity :
 - [Data Modeling with Postgres](https://github.com/Ahmed-Abdo-Amin/UDACITY-DataEngineeringNanodegree/blob/main/1.Module01-DataModeling/Project_Data_Modeling_with_Postgres) | Analyzing the songs of Sparkify by applying data modelling with Postgres and building an ETL pipeline using Python.
-----loading ............
+<br/>----loading ............
 
 ### Informatica Tutorial: Beginner to Expert Level from Udemy [From This Link](https://www.udemy.com/course/informatica-tutorial-beginner-to-expert-level/) :
 ----loading ............
@@ -134,7 +134,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 11/2022 SQL Basic, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/fc0d41ee4294)<br/>
 02/2023 Scripting with Python and SQL for Data Engineering, Coursera [Click here to see the details](https://coursera.org/share/f9374652e7ee41149cc0d416d2f7fc5a)<br/>
 02/2023 Stanford Machine Learning | Online, Coursera [Click here to see the details](https://coursera.org/share/0cc4fb600f17c11d389a26ceb6a27763)<br/>
-02/2023 Problem Solving (Basic) Certificate[Click here to see the details](https://www.hackerrank.com/certificates/ae2ab0c4004b)<br>
+02/2023 Problem Solving (Basic) Certificate, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/ae2ab0c4004b)<br>
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
 - [ELG7186 - Assignment 2](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
