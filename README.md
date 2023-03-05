@@ -123,7 +123,8 @@
 23. A - Juicer [Click here to see the details](https://codeforces.com/contest/709/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/709/submission/195543338)
 24. A - Carrot Cakes [Click here to see the details](https://codeforces.com/contest/799/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/799/submission/195803076)
 25. A - Anton and Letters [Click here to see the details](https://codeforces.com/contest/443/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/443/submission/195938176)
-26. 
+26. A - Way Too Long Words [Click here to see the details](https://codeforces.com/contest/71/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/71/submission/196089451)
+27. 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
 ### Technical Certificates:
