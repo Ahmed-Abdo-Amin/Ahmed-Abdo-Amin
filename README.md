@@ -124,7 +124,8 @@
 24. A - Carrot Cakes [Click here to see the details](https://codeforces.com/contest/799/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/799/submission/195803076)
 25. A - Anton and Letters [Click here to see the details](https://codeforces.com/contest/443/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/443/submission/195938176)
 26. A - Way Too Long Words [Click here to see the details](https://codeforces.com/contest/71/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/71/submission/196089451)
-27. 
+27. A - Free Ice Cream [Click here to see the details](https://codeforces.com/contest/686/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/686/submission/196231247)
+28. 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
 ### Technical Certificates:
@@ -137,7 +138,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 02/2023 Scripting with Python and SQL for Data Engineering, Coursera [Click here to see the details](https://coursera.org/share/f9374652e7ee41149cc0d416d2f7fc5a)<br/>
 02/2023 Stanford Machine Learning | Online, Coursera [Click here to see the details](https://coursera.org/share/0cc4fb600f17c11d389a26ceb6a27763)<br/>
 02/2023 Problem Solving (Basic) Certificate, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/ae2ab0c4004b)<br>
-02/2023 Introduction to Git and GitHub, Google [Click here to see the details](https://coursera.org/share/15c52c390870a3ba05b689024fb4d0b9)<br>
+03/2023 Introduction to Git and GitHub, Google [Click here to see the details](https://coursera.org/share/15c52c390870a3ba05b689024fb4d0b9)<br>
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
 - [ELG7186 - Assignment 2](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
