@@ -127,8 +127,10 @@
 27. A - Free Ice Cream [Click here to see the details](https://codeforces.com/contest/686/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/686/submission/196231247)
 28. A - Helpful Maths [Click here to see the details](https://codeforces.com/contest/339/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/339/submission/196361086)
 29. 
+
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
+
 ### Technical Certificates:
 02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/8a4aa04b-4299-4617-b7ea-146116801199)<br/>
 03/2022 Big Data Engineer 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/12edf4dd-3cfe-4ea1-ba75-dc8b256450c3)<br/>
@@ -140,6 +142,8 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 02/2023 Stanford Machine Learning | Online, Coursera [Click here to see the details](https://coursera.org/share/0cc4fb600f17c11d389a26ceb6a27763)<br/>
 02/2023 Problem Solving (Basic) Certificate, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/ae2ab0c4004b)<br>
 03/2023 Introduction to Git and GitHub, Google [Click here to see the details](https://coursera.org/share/15c52c390870a3ba05b689024fb4d0b9)<br>
+03/2023 SQL Internediate, HackerRank, Google [Click here to see the details](https://www.hackerrank.com/certificates/iframe/42924937e9fb)<br>
+
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
 - [ELG7186 - Assignment 2](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
