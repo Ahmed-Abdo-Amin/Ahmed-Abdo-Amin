@@ -126,7 +126,8 @@
 26. A - Way Too Long Words [Click here to see the details](https://codeforces.com/contest/71/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/71/submission/196089451)
 27. A - Free Ice Cream [Click here to see the details](https://codeforces.com/contest/686/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/686/submission/196231247)
 28. A - Helpful Maths [Click here to see the details](https://codeforces.com/contest/339/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/339/submission/196361086)
-29. 
+29. A - Team Olympiad [Click here to see the details](https://codeforces.com/contest/490/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/490/submission/196481277)
+30. 
 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
