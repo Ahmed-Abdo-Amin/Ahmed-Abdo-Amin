@@ -127,7 +127,8 @@
 27. A - Free Ice Cream [Click here to see the details](https://codeforces.com/contest/686/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/686/submission/196231247)
 28. A - Helpful Maths [Click here to see the details](https://codeforces.com/contest/339/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/339/submission/196361086)
 29. A - Team Olympiad [Click here to see the details](https://codeforces.com/contest/490/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/490/submission/196481277)
-30. 
+30. A - New Password [Click here to see the details](https://codeforces.com/contest/770/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/770/submission/196589617)
+31. 
 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
