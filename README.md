@@ -43,6 +43,7 @@
 
 ### Data Engineer Nano-Degree using AWS Cloud from Udacity :
 - [Data Modeling with Postgres](https://github.com/Ahmed-Abdo-Amin/UDACITY-DataEngineeringNanodegree/blob/main/1.Module01-DataModeling/Project_Data_Modeling_with_Postgres) | Analyzing the songs of Sparkify by applying data modelling with Postgres and building an ETL pipeline using Python.
+- [Project_Data_Modeling_with_Apache_Cassandra](https://github.com/Ahmed-Abdo-Amin/UDACITY-DataEngineeringNanodegree/blob/main/1.Module01-DataModeling/Project_Data_Modeling_with_Apache_Cassandra) | Analyzing the songs of Sparkify by applying data modelling with Apache Cassandra and building an ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables.
 <br/>----loading ............
 
 ### Informatica Tutorial: Beginner to Expert Level from Udemy [From This Link](https://www.udemy.com/course/informatica-tutorial-beginner-to-expert-level/) :
