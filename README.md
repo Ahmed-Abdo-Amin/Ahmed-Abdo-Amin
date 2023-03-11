@@ -129,7 +129,8 @@
 29. A - Team Olympiad [Click here to see the details](https://codeforces.com/contest/490/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/490/submission/196481277)
 30. A - New Password [Click here to see the details](https://codeforces.com/contest/770/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/770/submission/196589617)
 31. A - Presents [Click here to see the details](https://codeforces.com/contest/136/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/136/submission/196753455)
-32. 
+32. A - Lineland Mail [Click here to see the details](https://codeforces.com/contest/567/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/567/submission/196907241)
+33. 
 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
