@@ -132,6 +132,8 @@
 31. A - Presents [Click here to see the details](https://codeforces.com/contest/136/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/136/submission/196753455)
 32. A - Lineland Mail [Click here to see the details](https://codeforces.com/contest/567/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/567/submission/196907241)
 33. A - Mahmoud and Longest Uncommon Subsequence [Click here to see the details](https://codeforces.com/contest/766/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/766/submission/197041670)
+34. A - Snacktower [Click here to see the details](https://codeforces.com/problemset/problem/767/A) --> [Click here to see the solution](https://codeforces.com/problemset/submission/767/197340711)
+35. 
 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
