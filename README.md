@@ -150,6 +150,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 02/2023 Problem Solving (Basic) Certificate, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/ae2ab0c4004b)<br>
 03/2023 Introduction to Git and GitHub, Google [Click here to see the details](https://coursera.org/share/15c52c390870a3ba05b689024fb4d0b9)<br>
 03/2023 SQL Internediate, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/42924937e9fb)<br>
+03/2023 SQL Advanced, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/14131ba06d2f)<br>
 
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
