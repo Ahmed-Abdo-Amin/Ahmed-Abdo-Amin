@@ -134,6 +134,8 @@
 33. A - Mahmoud and Longest Uncommon Subsequence [Click here to see the details](https://codeforces.com/contest/766/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/766/submission/197041670)
 34. A - Snacktower [Click here to see the details](https://codeforces.com/problemset/problem/767/A) --> [Click here to see the solution](https://codeforces.com/problemset/submission/767/197340711)
 35. A - Oath of the Night's Watch [Click here to see the details](https://codeforces.com/contest/768/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/768/submission/197480175)
+36. A - Next Round [Click here to see the details](https://codeforces.com/contest/158/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/158/submission/197620962)
+37. 
 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
@@ -151,6 +153,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 03/2023 Introduction to Git and GitHub, Google [Click here to see the details](https://coursera.org/share/15c52c390870a3ba05b689024fb4d0b9)<br>
 03/2023 SQL Internediate, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/42924937e9fb)<br>
 03/2023 SQL Advanced, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/14131ba06d2f)<br>
+03/2023	Structured Machine Learning Projects | Online, DeepLearning.AI [Click here to see the details](https://coursera.org/share/f588bb9bbb193d819d237ec87f78f5b6)<br>
 
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
