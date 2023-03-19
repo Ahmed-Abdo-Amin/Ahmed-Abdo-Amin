@@ -157,6 +157,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 03/2023 SQL Internediate, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/42924937e9fb)<br>
 03/2023 SQL Advanced, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/14131ba06d2f)<br>
 03/2023	Structured Machine Learning Projects | Online, DeepLearning.AI [Click here to see the details](https://coursera.org/share/f588bb9bbb193d819d237ec87f78f5b6)<br>
+03/2023	Introduction to Data Engineering | Online, IBM [Click here to see the details](https://coursera.org/share/04990ecb73c3b2c6681fe9a55700ce46)<br>
 
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
