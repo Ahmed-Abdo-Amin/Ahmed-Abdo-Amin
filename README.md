@@ -137,7 +137,8 @@
 36. A - Next Round [Click here to see the details](https://codeforces.com/contest/158/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/158/submission/197620962)
 37. A - Bit++ [Click here to see the details](https://codeforces.com/contest/282/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/282/submission/197738680)
 38. A - Young Physicist (equilibrium) [Click here to see the details](https://codeforces.com/contest/69/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/69/submission/197886152)
-39. 
+39. A - Pangram [Click here to see the details](https://codeforces.com/contest/520/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/520/submission/198070730)
+40. 
 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
