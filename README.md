@@ -139,6 +139,8 @@
 38. A - Young Physicist (equilibrium) [Click here to see the details](https://codeforces.com/contest/69/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/69/submission/197886152)
 39. A - Pangram [Click here to see the details](https://codeforces.com/contest/520/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/520/submission/198070730)
 40. A - Twins [Click here to see the details](https://codeforces.com/contest/160/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/160/submission/198343163)
+41. A - Keyboard [Click here to see the details](https://codeforces.com/contest/474/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/474/submission/198471040)
+42. 
 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
@@ -158,6 +160,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 03/2023 SQL Advanced, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/14131ba06d2f)<br>
 03/2023	Structured Machine Learning Projects | Online, DeepLearning.AI [Click here to see the details](https://coursera.org/share/f588bb9bbb193d819d237ec87f78f5b6)<br>
 03/2023	Introduction to Data Engineering | Online, IBM [Click here to see the details](https://coursera.org/share/04990ecb73c3b2c6681fe9a55700ce46)<br>
+
 
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
