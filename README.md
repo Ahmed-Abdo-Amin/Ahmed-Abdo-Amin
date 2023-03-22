@@ -56,6 +56,9 @@
 - [MapReduce versus Hadoop MapReduce](https://github.com/Ahmed-Abdo-Amin/MapReduceversusHadoopMapReduce)
 - [Data Wrangling with DataFrames & Spark SQL](https://github.com/Ahmed-Abdo-Amin/DataWranglingwithDataFramesandSparkSQL)
 
+### Data Engineering and Machine Learning using Spark From IBM:
+- <img src="./Images_pre/ETL-RGB.png" width='45' align='left'/> [ETL and Machine Learning - Project](https://github.com/Ahmed-Abdo-Amin/ETL-and-Machine-Learning-Project.git) | In this Project, We imported data from an external dataset and create a DataFrame. We saved the data to a Parquet file and follow the steps to train the module using with Apache Spark.
+
 ### Databases and Data Warehousing in Data Science :
 - [A prediction of customer churn rate in the telecom industry and determination of the associations between items purchased.](https://github.com/Ahmed-Abdo-Amin/A_prediction_of_customer_churn_rate_and_-the_associations_between_items_purchased)
 - [Build RDBMS using SQL Server and Data Warehousing using SQL Server and R Language in Market-Basket-Analysis (MBA)](https://github.com/Ahmed-Abdo-Amin/RDBMS-SQLData-Warehousing-OLAP)
