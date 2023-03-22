@@ -163,7 +163,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 03/2023 SQL Advanced, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/14131ba06d2f)<br>
 03/2023	Structured Machine Learning Projects | Online, DeepLearning.AI [Click here to see the details](https://coursera.org/share/f588bb9bbb193d819d237ec87f78f5b6)<br>
 03/2023	Introduction to Data Engineering | Online, IBM [Click here to see the details](https://coursera.org/share/04990ecb73c3b2c6681fe9a55700ce46)<br>
-03/2023	Crash Course on Python | Online, IBM [Click here to see the details](https://coursera.org/share/9af62323e57575e971a81fe0630b2188)<br>
+03/2023	Crash Course on Python | Online, Google [Click here to see the details](https://coursera.org/share/9af62323e57575e971a81fe0630b2188)<br>
 03/2023	Data Engineering and Machine Learning using Spark | Online, IBM [Click here to see the details](https://coursera.org/share/5fc72ed485ca630222cc7496b45df6e6)<br>
 
 
