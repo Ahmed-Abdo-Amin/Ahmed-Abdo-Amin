@@ -104,6 +104,7 @@
 ### Problem Solving ([click here to go my codefocres profile ](https://codeforces.com/profile/ahmedabdoamin997))
 
 <details><summary>Click here for the problems</summary>
+
 1. A. Vanya and Fence [Click here to see the details](http://codeforces.com/contest/677/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/677/submission/193214034)
 2. A. Anton and Danik [Click here to see the details](https://codeforces.com/contest/734/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/734/submission/193317595)
 3. 791A - Bear and Big Brother [Click here to see the details](https://codeforces.com/problemset/problem/791/A) --> [Click here to see the solution](https://codeforces.com/problemset/submission/791/193446956)
@@ -146,6 +147,7 @@
 40. A - Twins [Click here to see the details](https://codeforces.com/contest/160/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/160/submission/198343163)
 41. A - Keyboard [Click here to see the details](https://codeforces.com/contest/474/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/474/submission/198471040)
 42. 
+
 </details>
 
 ### [<img src="https://sqlbolt.com/cs/images/favicon.png"/> SQLBolt](https://sqlbolt.com/) <br/>
