@@ -62,6 +62,7 @@
 <br/>----loading ............
 
 <h3> Informatica Tutorial: Beginner to Expert Level from Udemy </h3>
+	
 	[From This Link](https://www.udemy.com/course/informatica-tutorial-beginner-to-expert-level/) :
 ----loading ............
 
@@ -69,7 +70,9 @@
 	
 ----loading ............
   
-<h3> Spark from Udacity</h3> [Click here to go this Course](https://learn.udacity.com/courses/ud2002)
+<h3> Spark from Udacity</h3> 
+	
+	[Click here to go this Course](https://learn.udacity.com/courses/ud2002)
 	
 - [MapReduce versus Hadoop MapReduce](https://github.com/Ahmed-Abdo-Amin/MapReduceversusHadoopMapReduce)
 - [Data Wrangling with DataFrames & Spark SQL](https://github.com/Ahmed-Abdo-Amin/DataWranglingwithDataFramesandSparkSQL)
