@@ -1,5 +1,8 @@
 <p align="center" style='margin:20px'><img src="https://komarev.com/ghpvc/?username=Ahmed-Abdo-Amin&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Abdo-Amin" width='200'/> </p>
 <h1 align="center">Hi 👋, My name's Ahmed Abdo.</h1>
+--------------------------------------------------------------------------------
+<details> <summary> 👉 Click here to see My education</summary>
+	
 <div id="header" align="center">
   <img src=".\Images_pre\Data.gif" width="250" style="border-radius:31%"/>
 </div>
@@ -18,6 +21,8 @@
 	Graduation Project: “Online Table Reservation and Delivery Service Provider”.<br/>
       Scholarship: Java Standard Edition with MySQL (Global Academy) | .Net Web Development (ITI).
 </h3>
+	
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
