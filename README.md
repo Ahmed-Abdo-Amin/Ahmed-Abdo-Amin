@@ -103,7 +103,7 @@
 # Additional Activities
 ### Problem Solving ([click here to go my codefocres profile ](https://codeforces.com/profile/ahmedabdoamin997))
 
-<details><summary>Click here for the problems</summary>
+#### <details><summary>Click here for the problems</summary>
 
 1. A. Vanya and Fence [Click here to see the details](http://codeforces.com/contest/677/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/677/submission/193214034)
 2. A. Anton and Danik [Click here to see the details](https://codeforces.com/contest/734/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/734/submission/193317595)
