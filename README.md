@@ -56,6 +56,7 @@
 [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
 
 <h3> Data Engineer Nano-Degree using AWS Cloud from Udacity :</h3>
+	
 - [Data Modeling with Postgres](https://github.com/Ahmed-Abdo-Amin/UDACITY-DataEngineeringNanodegree/blob/main/1.Module01-DataModeling/Project_Data_Modeling_with_Postgres) | Analyzing the songs of Sparkify by applying data modelling with Postgres and building an ETL pipeline using Python.
 - [Project_Data_Modeling_with_Apache_Cassandra](https://github.com/Ahmed-Abdo-Amin/UDACITY-DataEngineeringNanodegree/blob/main/1.Module01-DataModeling/Project_Data_Modeling_with_Apache_Cassandra) | Analyzing the songs of Sparkify by applying data modelling with Apache Cassandra and building an ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables.
 <br/>----loading ............
@@ -182,6 +183,9 @@
 Learn SQL with simple, interactive exercises [Click here to see the solutions](https://github.com/Ahmed-Abdo-Amin/SQLBlot_Exercises)
 
 ### Technical Certificates:
+<!------------------------------------Certificates-------------------------------------------->
+<details> <summary> 👉 Click here to see My Certificates</summary>
+
 02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/8a4aa04b-4299-4617-b7ea-146116801199)<br/>
 03/2022 Big Data Engineer 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/12edf4dd-3cfe-4ea1-ba75-dc8b256450c3)<br/>
 04/2022 Artificial Intelligence Analyst 2021 Mastery Exam, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/d1e36ac9-18b6-41fd-a7b3-fbfc947a5d2a)<br/>
@@ -200,7 +204,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 03/2023	Data Engineering and Machine Learning using Spark | Online, IBM [Click here to see the details](https://coursera.org/share/5fc72ed485ca630222cc7496b45df6e6)<br>
 03/2023	Data Science & Business Analytics | Remote, The Sparks Foundation [Click here to see the details](https://truecertificates.com/verified/Y3R8MFGK6L)<br>
 
-
+</details>
 
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
