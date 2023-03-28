@@ -61,14 +61,15 @@
 - [Project_Data_Modeling_with_Apache_Cassandra](https://github.com/Ahmed-Abdo-Amin/UDACITY-DataEngineeringNanodegree/blob/main/1.Module01-DataModeling/Project_Data_Modeling_with_Apache_Cassandra) | Analyzing the songs of Sparkify by applying data modelling with Apache Cassandra and building an ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables.
 <br/>----loading ............
 
-<h3> Informatica Tutorial: Beginner to Expert Level from Udemy [From This Link](https://www.udemy.com/course/informatica-tutorial-beginner-to-expert-level/) :
+<h3> Informatica Tutorial: Beginner to Expert Level from Udemy </h3>
+	[From This Link](https://www.udemy.com/course/informatica-tutorial-beginner-to-expert-level/) :
 ----loading ............
 
 <h3> Data Engineer Specialization By IBM From Coursera :</h3>
 	
 ----loading ............
   
-<h3> Spark from Udacity [Click here to go this Course](https://learn.udacity.com/courses/ud2002)</h3>
+<h3> Spark from Udacity</h3> [Click here to go this Course](https://learn.udacity.com/courses/ud2002)
 	
 - [MapReduce versus Hadoop MapReduce](https://github.com/Ahmed-Abdo-Amin/MapReduceversusHadoopMapReduce)
 - [Data Wrangling with DataFrames & Spark SQL](https://github.com/Ahmed-Abdo-Amin/DataWranglingwithDataFramesandSparkSQL)
