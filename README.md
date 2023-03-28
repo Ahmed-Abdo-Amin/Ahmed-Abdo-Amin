@@ -1,12 +1,14 @@
 <p align="center" style='margin:20px'><img src="https://komarev.com/ghpvc/?username=Ahmed-Abdo-Amin&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-Abdo-Amin" width='200'/> </p>
 <h1 align="center">Hi 👋, My name's Ahmed Abdo.</h1>
---------------------------------------------------------------------------------
-<details> <summary> 👉 Click here to see My education</summary>
+<!-------------------------------------------------------------------------------->
 	
 <div id="header" align="center">
   <img src=".\Images_pre\Data.gif" width="250" style="border-radius:31%"/>
 </div>
 <h3 align="center"> Data Engineer| Machine learning Engineer | Data Science Engineer</h3>
+
+<details> <summary> 👉 Click here to see My education</summary>
+	
 <h3 align="center"> 
 <img width="40" src="https://media.licdn.com/dms/image/C4D0BAQFSLFXkFWUVDQ/company-logo_100_100/0/1643647478678?e=1684972800&amp;v=beta&amp;t=DOhbj1NLFFwBb2z9UmbFx7xonR3SxRRc5F9l46PaeNg" loading="lazy" height="40" alt="University of Ottawa logo" id="ember6660" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
 <strong>University of Ottawa, Canada</strong><br/>
