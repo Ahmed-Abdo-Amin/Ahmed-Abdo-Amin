@@ -44,7 +44,8 @@
 # Projects
 
 <!------------------------------------Projects-------------------------------------------->
-
+<details> <summary> 👉 Click here to see My projects</summary>
+	
 <h3> Graduation Projects </h3>
 
 - uOttawa:
@@ -125,6 +126,7 @@
 	
 - [Speech Recognition for Arabic Words](https://www.kaggle.com/code/ahmedabdoamin/speech-recognition-for-arabic-words) | Predict Arabic words by wav files.
 
+</details>
 
 # Additional Activities
 ### Problem Solving ([click here to go my codefocres profile ](https://codeforces.com/profile/ahmedabdoamin997))
