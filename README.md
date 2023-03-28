@@ -46,10 +46,12 @@
 <!------------------------------------Projects-------------------------------------------->
 
 <h3> Graduation Projects </h3>
+
 - uOttawa:
 [End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect](https://github.com/Ahmed-Abdo-Amin/End-to-EndSpeechTranslationofContemporaryEgyptianArabicDialect1)
 
 <h3> Cloud Analytics</h3>
+
 [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
 
 <h3> Data Engineer Nano-Degree using AWS Cloud from Udacity :</h3>
@@ -61,20 +63,25 @@
 ----loading ............
 
 <h3> Data Engineer Specialization By IBM From Coursera :</h3>
+	
 ----loading ............
   
 <h3> Spark from Udacity [Click here to go this Course](https://learn.udacity.com/courses/ud2002)</h3>
+	
 - [MapReduce versus Hadoop MapReduce](https://github.com/Ahmed-Abdo-Amin/MapReduceversusHadoopMapReduce)
 - [Data Wrangling with DataFrames & Spark SQL](https://github.com/Ahmed-Abdo-Amin/DataWranglingwithDataFramesandSparkSQL)
 
 <h3> Data Engineering and Machine Learning using Spark From IBM:</h3>
+	
 - <img src="./Images_pre/ETL-RGB.png" width='45' align='left'/> [ETL and Machine Learning - Project](https://github.com/Ahmed-Abdo-Amin/ETL-and-Machine-Learning-Project.git) | In this Project, We imported data from an external dataset and create a DataFrame. We saved the data to a Parquet file and follow the steps to train the module using with Apache Spark.
 
 <h3> Databases and Data Warehousing in Data Science :</h3>
+	
 - [A prediction of customer churn rate in the telecom industry and determination of the associations between items purchased.](https://github.com/Ahmed-Abdo-Amin/A_prediction_of_customer_churn_rate_and_-the_associations_between_items_purchased)
 - [Build RDBMS using SQL Server and Data Warehousing using SQL Server and R Language in Market-Basket-Analysis (MBA)](https://github.com/Ahmed-Abdo-Amin/RDBMS-SQLData-Warehousing-OLAP)
 
 <h3> Machine Learning (ML):</h3>
+	
 - [Network Intrusion Detection using Deep Learning](https://github.com/Ahmed-Abdo-Amin/Machine_learning_Project_Detect_anomalies_using_Deep_learning-main)
 - [Machine Learning Bagging and Boosting Models](https://github.com/Ahmed-Abdo-Amin/Machine-learning-Bagging-and-Boosting-models-Fourth_assignment-main)
 - [Machine Learning Clustering Models](https://github.com/Ahmed-Abdo-Amin/Machine-learning-Clustering-models-Third_assignment-main)
@@ -82,19 +89,23 @@
 - [Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features](https://github.com/Ahmed-Abdo-Amin/Machine-learning-OVR-vs-OVO-First_assignment-main)
 
 <h3> Natural Language Processing (NLP):</h3>
+	
 - [Gutenberg Book Classification (Classification-Is-All-You-Need)](https://github.com/Ahmed-Abdo-Amin/Text_Classification_The_Gutenbergs-_books)
 - [Gutenberg Book Clustering (Clustering-Is-All-You-Need)](https://github.com/Ahmed-Abdo-Amin/Text_Clustering_The_Gutenbergs-_books)
 - [ChatBot For Movie Recommendation system](https://github.com/Ahmed-Abdo-Amin/Movie_Recommendation_system)
 - [Manipulating the data ("Gutenberg's couple of digital books") and serializing them.](https://github.com/Ahmed-Abdo-Amin/TextDataPartitioning)
 
 <h3> Smart Cities :</h3>
+	
 - [Machine learning approach to identify fake tasks](https://github.com/Ahmed-Abdo-Amin/machine-learning-ML-approaches-to-identify-fake-tasks-main)
 - [Time Series Anomaly Detection](https://github.com/Ahmed-Abdo-Amin/Time_Series_Anomaly_Detection-main)
 
 <h3> GANs:</h3>
+	
 - [A Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/Ahmed-Abdo-Amin/A-Fake-Task-Filtering-Security-Layer-using-CGAN-Conditional-GAN)
 
 <h3> Computer Vision (CV):</h3>
+	
 - [Sports Products Multi-Class Classification](https://github.com/Ahmed-Abdo-Amin/SportsProductsMulti-ClassClassification)
 - [Glaucoma Detection Using Fudous Images And Convolution Neural Network](https://github.com/Ahmed-Abdo-Amin/Glaucoma_Detection_Using_Fudous_Images_And_Convolution_Neural_Network)
 - [Applying Machine Learning Models To Image Classification (the Cifar10 dataset)](https://github.com/Ahmed-Abdo-Amin/ApplyingMachineLearningModelsToImageClassification)
@@ -102,13 +113,16 @@
 - [Applying Regularization and Data Augmentation on CNN Model to Image Classification (Leaf counting dataset)](https://github.com/Ahmed-Abdo-Amin/ApplyingRegularization-DataAugmentationOnCNNModelToImageClassification)
 
 <h3> AI For Cyber Security (CS):</h3>
+	
 - [Detecting malicious Website Using its URL](https://github.com/Ahmed-Abdo-Amin/DetectingmaliciousWebsiteUsingitsURL1)
 - [Predicting data exfiltration via DNS](https://github.com/Ahmed-Abdo-Amin/PredictingdataexfiltrationviaDNS)
 
 <h3> Reinforcement Learning (RL):</h3>
+	
 - [Atari Games using Q-Learning](https://github.com/Ahmed-Abdo-Amin/Atari_Games_using_Q-Learning_ReinforcementLearning)
 
 <h3> Speech Recognition </h3>
+	
 - [Speech Recognition for Arabic Words](https://www.kaggle.com/code/ahmedabdoamin/speech-recognition-for-arabic-words) | Predict Arabic words by wav files.
 
 
