@@ -207,7 +207,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 03/2023	Crash Course on Python | Online, Google [Click here to see the details](https://coursera.org/share/9af62323e57575e971a81fe0630b2188)<br>
 03/2023	Data Engineering and Machine Learning using Spark | Online, IBM [Click here to see the details](https://coursera.org/share/5fc72ed485ca630222cc7496b45df6e6)<br>
 03/2023	Data Science & Business Analytics | Remote, The Sparks Foundation [Click here to see the details](https://truecertificates.com/verified/Y3R8MFGK6L)<br>
-
+03/2023	Python for Data Science, AI & Development, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/XAQUHLSRCD5N)<br>
 </details>
 
 ### Kaggle-Competitions
