@@ -189,7 +189,8 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 
 ### Technical Certificates:
 <!------------------------------------Certificates-------------------------------------------->
-<details> <summary> 👉 Click here to see My Certificates</summary>
+<img src="./Images_pre/click-here.gif" width='150' align='left'/>
+<details> <summary> <h2>to see My Certificates</h2></summary>
 
 02/2022 Predictive Analytics Modeler 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/8a4aa04b-4299-4617-b7ea-146116801199)<br/>
 03/2022 Big Data Engineer 2021 Mastery Award, IBM [Click here to see the details](https://www.credly.com/earner/earned/badge/12edf4dd-3cfe-4ea1-ba75-dc8b256450c3)<br/>
@@ -220,7 +221,8 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 ### Data Science & Business Analytics Tasks [click here](https://github.com/Ahmed-Abdo-Amin/-Internship_Spark_Foundation/blob/main/DataScience%26BusinessAnalyticsTasks)
 
 <!------------------------------------Tasks-------------------------------------------->
-<details> <summary> 👉 Click here to see My solution for these Tasks</summary>
+<img src="./Images_pre/click-here.gif" width='150' align='left'/>
+<details> <summary> <h2>to see My solution for these Tasks </h2></summary>
 
 - [Prediction using Supervised ML](https://github.com/Ahmed-Abdo-Amin/-Internship_Spark_Foundation/blob/main/DataScience%26BusinessAnalyticsTasks/Task1-Prediction-using-SupervisedML) | Predict the percentage of an student based on the no. of study hours.
 - [Prediction using Unsupervised ML](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task2-gripmarch23-thesparksfoundation-activity-7040025445966176256-l8VT?utm_source=share&utm_medium=member_desktop) | From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
