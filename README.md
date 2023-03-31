@@ -44,7 +44,8 @@
 # Projects
 
 <!------------------------------------Projects-------------------------------------------->
-<details> <summary> 👉 Click here to see My projects</summary>
+<img src="./Images_pre/click-here.gif" width='150' align='left'/>
+<details> <summary> <h2>to see My projects</h2></summary>
 	
 <h3> Graduation Projects </h3>
 
@@ -135,8 +136,8 @@
 
 # Additional Activities
 ### Problem Solving ([click here to go my codefocres profile ](https://codeforces.com/profile/ahmedabdoamin997))
-
-<details> <summary> 👉 Click here to see these problem Solving</summary>
+<img src="./Images_pre/click-here.gif" width='150' align='left'/>
+<details> <summary> <h2>to see these problem Solving</h2> </summary>
 
 1. A. Vanya and Fence [Click here to see the details](http://codeforces.com/contest/677/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/677/submission/193214034)
 2. A. Anton and Danik [Click here to see the details](https://codeforces.com/contest/734/problem/A) --> [Click here to see the solution](https://codeforces.com/contest/734/submission/193317595)
