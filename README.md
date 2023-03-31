@@ -8,7 +8,7 @@
 
 <!------------------------------------education-------------------------------------------->
 <img src="./Images_pre/click-here.gif" width='150' align='left'/>
-<details> <summary><h3 style="color:blue"> to see My education </h3></summary>
+<details> <summary><h2 style="color:blue"> to see My education </h2></summary>
 	
 <h3 align="center"> 
 <img width="40" src="https://media.licdn.com/dms/image/C4D0BAQFSLFXkFWUVDQ/company-logo_100_100/0/1643647478678?e=1684972800&amp;v=beta&amp;t=DOhbj1NLFFwBb2z9UmbFx7xonR3SxRRc5F9l46PaeNg" loading="lazy" height="40" alt="University of Ottawa logo" id="ember6660" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
