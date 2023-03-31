@@ -7,8 +7,8 @@
 <h3 align="center"> Data Engineer| Machine learning Engineer | Data Science Engineer</h3>
 
 <!------------------------------------education-------------------------------------------->
-
-<details> <summary> 👉 <img href='./Images_pre/click-here.gif'> Click here to see My education</summary>
+<img href='./Images_pre/click-here.gif'>
+<details> <summary> 👉  Click here to see My education</summary>
 	
 <h3 align="center"> 
 <img width="40" src="https://media.licdn.com/dms/image/C4D0BAQFSLFXkFWUVDQ/company-logo_100_100/0/1643647478678?e=1684972800&amp;v=beta&amp;t=DOhbj1NLFFwBb2z9UmbFx7xonR3SxRRc5F9l46PaeNg" loading="lazy" height="40" alt="University of Ottawa logo" id="ember6660" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
