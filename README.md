@@ -7,7 +7,7 @@
 <h3 align="center"> Data Engineer| Machine learning Engineer | Data Science Engineer</h3>
 
 <!------------------------------------education-------------------------------------------->
-<img href='./Images_pre/click-here.gif'>
+<img href='.\Images_pre\click-here.gif'>
 <details> <summary> 👉  Click here to see My education</summary>
 	
 <h3 align="center"> 
