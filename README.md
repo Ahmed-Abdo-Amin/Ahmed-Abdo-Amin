@@ -35,8 +35,7 @@
 <a href="https://www.hackerrank.com/ahmedabdoamin997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ahmedabdoamin997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>
 <a href="https://huggingface.co/Ahmed997Abdo" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="" height="30" width="40" /></a>
-<a href="https://medium.com/@ahmedabdoamin997" target="blank"><img align="center" src=".\Images_pre\medium-logo.png" alt="" height="30" width="100" /></a>
-<a href="" target="blank"><img class="set" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="" height="30" width="70" /></a> 
+<a href="https://medium.com/@ahmedabdoamin997" target="blank"><img align="center" src=".\Images_pre\medium-logo.png" alt="" height="30" width="100" /></a> 
 <a href="https://app.datacamp.com/profile/AhmedAbdoAmin" target="blank"><img class="set" align="center" src=".\Images_pre\DataCamp.png" alt="" height="50" width="100" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
