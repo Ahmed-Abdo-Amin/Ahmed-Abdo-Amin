@@ -210,7 +210,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 03/2023	Data Science & Business Analytics | Remote, The Sparks Foundation [Click here to see the details](https://truecertificates.com/verified/Y3R8MFGK6L)<br>
 03/2023	Python for Data Science, AI & Development, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/XAQUHLSRCD5N)<br>
 03/2023 Problem Solving (Intermediate) Certificate, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/19ee93f5caf4)<br>
-03/2023 Nanodegree Data Analysis Challenger Certificate, Udacity [Click here to see the details](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_data-analysis-challenger-activity-7048793434626637824-jf9x?utm_source=share&utm_medium=member_desktop)<br>
+04/2023 Nanodegree Data Analysis Challenger Certificate, Udacity [Click here to see the details](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_data-analysis-challenger-activity-7048793434626637824-jf9x?utm_source=share&utm_medium=member_desktop)<br>
 </details>
 
 ### Kaggle-Competitions
