@@ -197,7 +197,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 04/2022 Dale Carnegie<br/>
 04/2022 English, Berlitz<br/>
 11/2022 SQL Basic, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/fc0d41ee4294)<br/>
-02/2023 Scripting with Python and SQL for Data Engineering, Coursera [Click here to see the details](https://coursera.org/share/f9374652e7ee41149cc0d416d2f7fc5a)<br/>
+02/2023 Scripting with Python and SQL for Data Engineering, Duke University [Click here to see the details](https://coursera.org/share/f9374652e7ee41149cc0d416d2f7fc5a)<br/>
 02/2023 Stanford Machine Learning | Online, Coursera [Click here to see the details](https://coursera.org/share/0cc4fb600f17c11d389a26ceb6a27763)<br/>
 02/2023 Problem Solving (Basic) Certificate, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/ae2ab0c4004b)<br>
 03/2023 Introduction to Git and GitHub, Google [Click here to see the details](https://coursera.org/share/15c52c390870a3ba05b689024fb4d0b9)<br>
