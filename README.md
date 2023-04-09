@@ -30,6 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/ahmed-abdo-amin-abdo-b17193213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-abdo-amin-abdo-b17193213/" height="30" width="40" /></a>
+<a href="https://wuzzuf.net/me/AhmedAbdo-AminAbdo-a0f9a2a8be" target="blank"><img align="center" src="./Images_pre/wuzzuf-log.png" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ahmedabdoamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmedabdoamin" height="30" width="40" /></a>
 <a href="https://www.credly.com/earner/earned" target="blank"><img align="center" src=".\Images_pre\credly.png" alt="" height="50" width="80" /></a>
 <a href="https://www.hackerrank.com/ahmedabdoamin997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
