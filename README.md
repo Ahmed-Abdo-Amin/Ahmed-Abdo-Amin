@@ -3,7 +3,7 @@
 	
 <div id="header" align="center">
   <h3 align="center"> Data Engineer| Machine learning Engineer | Data Science Engineer</h3>
-  <img src=".\Images_pre\Data.gif" width="500" style="border-radius:31%"/>
+  <img src=".\Images_pre\Data.gif" width="400" style="border-radius:31%"/>
 </div>
 
 
