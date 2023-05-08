@@ -54,11 +54,12 @@
 [End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect](https://github.com/Ahmed-Abdo-Amin/End-to-EndSpeechTranslationofContemporaryEgyptianArabicDialect1)
 	
 <h3> Introduction to NoSQL Databases </h3>
-[Project Overview: Introduction to NoSQL Databases](https://github.com/Ahmed-Abdo-Amin/Project-Overview-Introduction-to-NoSQL-Databases) | This project moves data from external sources into various databases, moves data from one type of database to another, and runs basic queries on various databases.
+	
+- [Project Overview: Introduction to NoSQL Databases](https://github.com/Ahmed-Abdo-Amin/Project-Overview-Introduction-to-NoSQL-Databases) | This project moves data from external sources into various databases, moves data from one type of database to another, and runs basic queries on various databases.
 
 <h3> Cloud Analytics</h3>
 
-[Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
+- [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
 
 <h3> Data Engineer Nano-Degree using AWS Cloud from Udacity :</h3>
 	
