@@ -3,7 +3,7 @@
 	
 <div id="header" align="center">
   <img src=".\Images_pre\Data.gif" width="400" style="border-radius:31%"/>
-  <h2 align="center"> Data Engineer| Machine learning Engineer | Data Science Engineer</h2>
+  <h2 align="center"> Data Engineer| NoSQL, Big Data, and Spark Foundations Specialization | Data Science Engineer</h2>
 </div>
 
 
@@ -52,6 +52,9 @@
 
 - uOttawa:
 [End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect](https://github.com/Ahmed-Abdo-Amin/End-to-EndSpeechTranslationofContemporaryEgyptianArabicDialect1)
+	
+<h3> Introduction to NoSQL Databases </h3>
+[Project Overview: Introduction to NoSQL Databases](https://github.com/Ahmed-Abdo-Amin/Project-Overview-Introduction-to-NoSQL-Databases) | This project moves data from external sources into various databases, moves data from one type of database to another, and runs basic queries on various databases.
 
 <h3> Cloud Analytics</h3>
 
