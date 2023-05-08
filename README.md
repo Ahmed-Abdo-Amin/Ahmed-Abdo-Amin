@@ -57,6 +57,10 @@
 	
 - [Project Overview: Introduction to NoSQL Databases](https://github.com/Ahmed-Abdo-Amin/Project-Overview-Introduction-to-NoSQL-Databases) | This project moves data from external sources into various databases, moves data from one type of database to another, and runs basic queries on various databases.
 
+<h3> Data Engineering and Machine Learning using Spark From IBM:</h3>
+	
+- <img src="./Images_pre/ETL-RGB.png" width='45' align='left'/> [ETL and Machine Learning - Project](https://github.com/Ahmed-Abdo-Amin/ETL-and-Machine-Learning-Project.git) | In this Project, We imported data from an external dataset and create a DataFrame. We saved the data to a Parquet file and follow the steps to train the module using with Apache Spark.
+	
 <h3> Cloud Analytics</h3>
 
 - [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
@@ -83,9 +87,7 @@
 - [MapReduce versus Hadoop MapReduce](https://github.com/Ahmed-Abdo-Amin/MapReduceversusHadoopMapReduce)
 - [Data Wrangling with DataFrames & Spark SQL](https://github.com/Ahmed-Abdo-Amin/DataWranglingwithDataFramesandSparkSQL)
 
-<h3> Data Engineering and Machine Learning using Spark From IBM:</h3>
-	
-- <img src="./Images_pre/ETL-RGB.png" width='45' align='left'/> [ETL and Machine Learning - Project](https://github.com/Ahmed-Abdo-Amin/ETL-and-Machine-Learning-Project.git) | In this Project, We imported data from an external dataset and create a DataFrame. We saved the data to a Parquet file and follow the steps to train the module using with Apache Spark.
+
 
 <h3> Databases and Data Warehousing in Data Science :</h3>
 	
