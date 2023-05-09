@@ -60,7 +60,11 @@
 <h3> Data Engineering and Machine Learning using Spark From IBM:</h3>
 	
 - <img src="./Images_pre/ETL-RGB.png" width='45' align='left'/> [ETL and Machine Learning - Project](https://github.com/Ahmed-Abdo-Amin/ETL-and-Machine-Learning-Project.git) | In this Project, We imported data from an external dataset and create a DataFrame. We saved the data to a Parquet file and follow the steps to train the module using with Apache Spark.
-	
+
+<h3> Microsoft Power BI Desktop for Business Intelligence </h3>	
+
+- [Adventure Works Cycles' analysis project](https://lnkd.in/dWwnRa9T) | This project extracts insights from Adventure Works CSV files, which can be found at this link: [click here] (https://lnkd.in/dkFn_xsc).
+
 <h3> Cloud Analytics</h3>
 
 - [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
