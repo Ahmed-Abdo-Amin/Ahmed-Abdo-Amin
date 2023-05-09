@@ -63,7 +63,8 @@
 
 <h3> Microsoft Power BI Desktop for Business Intelligence </h3>	
 
-- [Adventure Works Cycles' analysis project](https://lnkd.in/dWwnRa9T) | This project extracts insights from Adventure Works CSV files, which can be found at this link: [click here] (https://lnkd.in/dkFn_xsc).
+- [Adventure Works Cycles' analysis project](https://lnkd.in/dWwnRa9T) | This project extracts insights from Adventure Works CSV files, which can be found at this link: 
+[click here] (https://lnkd.in/dkFn_xsc).
 
 <h3> Cloud Analytics</h3>
 
