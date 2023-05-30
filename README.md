@@ -75,6 +75,11 @@
 - [Project_Data_Modeling_with_Apache_Cassandra](https://github.com/Ahmed-Abdo-Amin/UDACITY-DataEngineeringNanodegree/blob/main/1.Module01-DataModeling/Project_Data_Modeling_with_Apache_Cassandra) | Analyzing the songs of Sparkify by applying data modelling with Apache Cassandra and building an ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables.
 <br/>----loading ............
 
+<h3>Application Security and Monitoring:</h3>
+	
+- [Hands-on Lab Monitoring in Action with Prometheus](https://github.com/Ahmed-Abdo-Amin/Hands-on-Lab-Monitoring-in-Action-with-Prometheus/tree/main) | In this lab, you will become familiar with using Prometheus to monitor sample servers simulated with node exporter.
+- [Hands-on Lab Monitoring in Action with Grafana](https://github.com/Ahmed-Abdo-Amin/Hands-on-Lab-Monitoring-in-Action-with-Grafana) | In this lab you will learn to use Grafana as a visualization tool and dashboard for Prometheus.
+	
 <h3> Informatica Tutorial: Beginner to Expert Level from Udemy </h3>
 	
 [From This Link](https://www.udemy.com/course/informatica-tutorial-beginner-to-expert-level/) :
