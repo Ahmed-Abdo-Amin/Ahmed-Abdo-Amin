@@ -228,8 +228,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 03/2023	Python for Data Science, AI & Development, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/XAQUHLSRCD5N)<br>
 03/2023 Problem Solving (Intermediate) Certificate, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/19ee93f5caf4)<br>
 04/2023 Nanodegree Data Analysis Challenger Certificate, Udacity [Click here to see the details](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_data-analysis-challenger-activity-7048793434626637824-jf9x?utm_source=share&utm_medium=member_desktop)<br>
-04/2023 Introduction to Big Data with Spark and Hadoop, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/TTDT2HV5KQCU)
-	<br>
+04/2023 Introduction to Big Data with Spark and Hadoop, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/TTDT2HV5KQCU)<br>
 05/2023 Introduction to NoSQL Databases, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/4F68EPCLK4LH)<br>
 </details>
 06/2023 Application Security and Monitoring, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/ZQA9FZSLXMEL)<br>
