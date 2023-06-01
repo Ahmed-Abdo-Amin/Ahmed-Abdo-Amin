@@ -232,6 +232,8 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 	<br>
 05/2023 Introduction to NoSQL Databases, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/4F68EPCLK4LH)<br>
 </details>
+06/2023 Application Security and Monitoring, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/ZQA9FZSLXMEL)<br>
+</details>
 
 ### Kaggle-Competitions
 - [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
