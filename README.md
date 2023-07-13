@@ -219,7 +219,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 ### Data Science & Business Analytics Tasks [click here](https://github.com/Ahmed-Abdo-Amin/-Internship_Spark_Foundation/blob/main/DataScience%26BusinessAnalyticsTasks)
 
 <!------------------------------------Tasks-------------------------------------------->
- <h2>Tasks</h2>
+
 - [Prediction using Supervised ML](https://github.com/Ahmed-Abdo-Amin/-Internship_Spark_Foundation/blob/main/DataScience%26BusinessAnalyticsTasks/Task1-Prediction-using-SupervisedML) | Predict the percentage of an student based on the no. of study hours.
 - [Prediction using Unsupervised ML](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task2-gripmarch23-thesparksfoundation-activity-7040025445966176256-l8VT?utm_source=share&utm_medium=member_desktop) | From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 - [Exploratory Data Analysis - Retail](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task3-gripmarch23-thesparksfoundation-activity-7043035928621125632-BWlE?utm_source=share&utm_medium=member_desktop) | Find out the weak areas where you can work to make more profit.
