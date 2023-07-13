@@ -42,7 +42,7 @@
 	
 
 
-<h3> Data analysis </h3>
+<h3> Data analysis and Business intelligence</h3>
 
 - [Adventure Works Cycles' analysis project](https://lnkd.in/dWwnRa9T) | This project extracts insights from Adventure Works CSV files, which can be found at this link: [click here](https://lnkd.in/dkFn_xsc).
 - [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
