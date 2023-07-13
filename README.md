@@ -23,8 +23,6 @@
 # Projects
 
 <!------------------------------------Projects-------------------------------------------->
-<img src="./Images_pre/click-here.gif" width='150' align='left'/>
-<details> <summary> <h2>to see My projects</h2></summary>
 	
 <h3> Graduation Projects </h3>
 
@@ -126,7 +124,6 @@
 	
 - [Speech Recognition for Arabic Words](https://www.kaggle.com/code/ahmedabdoamin/speech-recognition-for-arabic-words) | Predict Arabic words by wav files.
 
-</details>
 
 # Additional Activities
 ### Problem Solving ([click here to go my codefocres profile ](https://codeforces.com/profile/ahmedabdoamin997))
