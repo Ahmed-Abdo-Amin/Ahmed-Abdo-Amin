@@ -8,25 +8,18 @@
 
 
 <!------------------------------------education-------------------------------------------->
-<img src="./Images_pre/click-here.gif" width='150' align='left'/>
-<details> <summary><h2 style="color:blue"> to see My education </h2></summary>
-	
 <h3 align="center"> 
-<img width="40" src="https://media.licdn.com/dms/image/C4D0BAQFSLFXkFWUVDQ/company-logo_100_100/0/1643647478678?e=1684972800&amp;v=beta&amp;t=DOhbj1NLFFwBb2z9UmbFx7xonR3SxRRc5F9l46PaeNg" loading="lazy" height="40" alt="University of Ottawa logo" id="ember6660" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
 <strong>University of Ottawa, Canada</strong><br/>
 	Master of Electrical Engineering | Major: Data Science and AI. <br/>
 	Graduation Project: “End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect”.<br/>
-	Sponsor: <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/768px-Microsoft_logo_%282012%29.svg.png?20210729021037" alt="Microsoft" height="30" width="160" />
+	Sponsor: Microsoft
 </h3>
 <h3 align="center">
-<img width="48" src="https://media.licdn.com/dms/image/C510BAQE6mGkKyGFC_g/company-logo_100_100/0/1519892141226?e=1684972800&amp;v=beta&amp;t=8fVsdQZ38GDGB5qNIsxkpiSZd94EsGWZpcZYam-o_20" loading="lazy" height="48" alt="Zagazig University logo" id="ember6853" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
 <strong>Faculty of Computers and Information, Zagazig</strong><br/>
 	Bachelor of Computers and informatics | Major: Computer Science | Grade: very good with honor. <br/>
 	Graduation Project: “Online Table Reservation and Delivery Service Provider”.<br/>
       Scholarship: Java Standard Edition with MySQL (Global Academy) | .Net Web Development (ITI).
 </h3>
-	
-</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
