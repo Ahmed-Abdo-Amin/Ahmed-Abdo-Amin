@@ -6,19 +6,6 @@
   <h2 align="center"> Data Engineer| NoSQL, Big Data, and Spark Foundations Specialization | Data Science Engineer</h2>
 </div>
 
-
-<!------------------------------------education-------------------------------------------->
-<p align="center"> 
-<strong>Education<br/>University of Ottawa, Canada</strong><br/>
-	Master of Electrical Engineering | <strong>Major</strong>: Data Science and AI. <br/>
-	<strong>Graduation Project:</strong> “End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect”.<br/>
-	<strong>Sponsor:</strong> Microsoft<br/>
-<strong>Faculty of Computers and Information, Zagazig</strong><br/>
-	Bachelor of Computers and informatics | <strong>Major:</strong> Computer Science | <strong>Grade:</strong>very good with honor. <br/>
-	<strong>Graduation Project:</strong> “Online Table Reservation and Delivery Service Provider”.<br/>
-        <strong>Scholarship:</strong> Java Standard Edition with MySQL (Global Academy) | .Net Web Development (ITI).
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/ahmed-abdo-amin-abdo-b17193213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-abdo-amin-abdo-b17193213/" height="30" width="40" /></a>
