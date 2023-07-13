@@ -47,10 +47,6 @@
 - [Adventure Works Cycles' analysis project](https://lnkd.in/dWwnRa9T) | This project extracts insights from Adventure Works CSV files, which can be found at this link: [click here](https://lnkd.in/dkFn_xsc).
 - [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
 
-<h3>Application Security and Monitoring:</h3>	
-
-- [Hands-on Lab Monitoring in Action with Prometheus](https://github.com/Ahmed-Abdo-Amin/Hands-on-Lab-Monitoring-in-Action-with-Prometheus/tree/main) | In this lab, you will become familiar with using Prometheus to monitor sample servers simulated with node exporter.
-- [Hands-on Lab Monitoring in Action with Grafana](https://github.com/Ahmed-Abdo-Amin/Hands-on-Lab-Monitoring-in-Action-with-Grafana) | In this lab you will learn to use Grafana as a visualization tool and dashboard for Prometheus.
 
 <h3> Machine Learning (ML):</h3>
 	
@@ -184,6 +180,11 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 - [Prediction using Supervised ML](https://github.com/Ahmed-Abdo-Amin/-Internship_Spark_Foundation/blob/main/DataScience%26BusinessAnalyticsTasks/Task1-Prediction-using-SupervisedML) | Predict the percentage of an student based on the no. of study hours.
 - [Prediction using Unsupervised ML](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task2-gripmarch23-thesparksfoundation-activity-7040025445966176256-l8VT?utm_source=share&utm_medium=member_desktop) | From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 - [Exploratory Data Analysis - Retail](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task3-gripmarch23-thesparksfoundation-activity-7043035928621125632-BWlE?utm_source=share&utm_medium=member_desktop) | Find out the weak areas where you can work to make more profit.
+
+  <h3>Application Security and Monitoring:</h3>	
+  
+- [Hands-on Lab Monitoring in Action with Prometheus](https://github.com/Ahmed-Abdo-Amin/Hands-on-Lab-Monitoring-in-Action-with-Prometheus/tree/main) | In this lab, you will become familiar with using Prometheus to monitor sample servers simulated with node exporter.
+- [Hands-on Lab Monitoring in Action with Grafana](https://github.com/Ahmed-Abdo-Amin/Hands-on-Lab-Monitoring-in-Action-with-Grafana) | In this lab you will learn to use Grafana as a visualization tool and dashboard for Prometheus.
 
 --
 ## 📈 GitHub Stats 
