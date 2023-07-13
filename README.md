@@ -10,15 +10,15 @@
 <!------------------------------------education-------------------------------------------->
 <label align="center"> 
 <strong>University of Ottawa, Canada</strong><br/>
-	Master of Electrical Engineering | <strong>Major</strong>strong>: Data Science and AI. <br/>
-	<strong>Graduation Project:</strong>strong> “End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect”.<br/>
-	<strong>Sponsor:</strong>strong> Microsoft
+	Master of Electrical Engineering | <strong>Major</strong>: Data Science and AI. <br/>
+	<strong>Graduation Project:</strong> “End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect”.<br/>
+	<strong>Sponsor:</strong> Microsoft
 </label>
 <label align="center">
 <strong>Faculty of Computers and Information, Zagazig</strong><br/>
-	Bachelor of Computers and informatics | <strong>Major:</strong>strong> Computer Science | <strong>Grade:</strong>very good with honor. <br/>
-	<strong>Graduation Project:</strong>strong> “Online Table Reservation and Delivery Service Provider”.<br/>
-        <strong>Scholarship:</strong>strong> Java Standard Edition with MySQL (Global Academy) | .Net Web Development (ITI).
+	Bachelor of Computers and informatics | <strong>Major:</strong> Computer Science | <strong>Grade:</strong>very good with honor. <br/>
+	<strong>Graduation Project:</strong> “Online Table Reservation and Delivery Service Provider”.<br/>
+        <strong>Scholarship:</strong> Java Standard Edition with MySQL (Global Academy) | .Net Web Development (ITI).
 </label>
 
 <h3 align="left">Connect with me:</h3>
