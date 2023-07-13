@@ -54,20 +54,21 @@
 
 <h3> Machine Learning (ML):</h3>
 	
-- [Network Intrusion Detection using Deep Learning](https://github.com/Ahmed-Abdo-Amin/Machine_learning_Project_Detect_anomalies_using_Deep_learning-main)
+- [Network Intrusion Detection using Deep Learning](https://github.com/Ahmed-Abdo-Amin/Machine_learning_Project_Detect_anomalies_using_Deep_learning-main) | Detect anomalies using Deep learning Using tuning many different hyper parameters like (learning rate, hidden layer, activation function, batch size) and do grid
+search to select the best hyper parameters and do dimensionality reduction and feature selection then plot Tsne.
 - [Machine Learning Bagging and Boosting Models](https://github.com/Ahmed-Abdo-Amin/Machine-learning-Bagging-and-Boosting-models-Fourth_assignment-main)
 - [Machine Learning Clustering Models](https://github.com/Ahmed-Abdo-Amin/Machine-learning-Clustering-models-Third_assignment-main)
 - [Machine Learning Classification Models](https://github.com/Ahmed-Abdo-Amin/-Machine-learning-Classification-models-Second_assignment-main)
 - [Build One-vs-Rest and One-vs-One strategies Based-On the Most Important Features](https://github.com/Ahmed-Abdo-Amin/Machine-learning-OVR-vs-OVO-First_assignment-main)
 - [Machine learning approach to identify fake tasks](https://github.com/Ahmed-Abdo-Amin/machine-learning-ML-approaches-to-identify-fake-tasks-main)
 - [Time Series Anomaly Detection](https://github.com/Ahmed-Abdo-Amin/Time_Series_Anomaly_Detection-main)
-- [A Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/Ahmed-Abdo-Amin/A-Fake-Task-Filtering-Security-Layer-using-CGAN-Conditional-GAN)
+- [A Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/Ahmed-Abdo-Amin/A-Fake-Task-Filtering-Security-Layer-using-CGAN-Conditional-GAN) | Data generation using GANs, and use the discriminator as a classifier to detect suspicious and fake data.
 - [Detecting malicious Website Using its URL](https://github.com/Ahmed-Abdo-Amin/DetectingmaliciousWebsiteUsingitsURL1)
 - [Predicting data exfiltration via DNS](https://github.com/Ahmed-Abdo-Amin/PredictingdataexfiltrationviaDNS)
 
 <h3> Natural Language Processing (NLP):</h3>
 	
-- [Gutenberg Book Classification (Classification-Is-All-You-Need)](https://github.com/Ahmed-Abdo-Amin/Text_Classification_The_Gutenbergs-_books)
+- [Gutenberg Book Classification (Classification-Is-All-You-Need)](https://github.com/Ahmed-Abdo-Amin/Text_Classification_The_Gutenbergs-_books) | Predict the author or the name of the book given some text, using classification and clustering techniques.
 - [Gutenberg Book Clustering (Clustering-Is-All-You-Need)](https://github.com/Ahmed-Abdo-Amin/Text_Clustering_The_Gutenbergs-_books)
 - [ChatBot For Movie Recommendation system](https://github.com/Ahmed-Abdo-Amin/Movie_Recommendation_system)
 - [Manipulating the data ("Gutenberg's couple of digital books") and serializing them.](https://github.com/Ahmed-Abdo-Amin/TextDataPartitioning)
@@ -76,7 +77,7 @@
 
 <h3> Computer Vision (CV):</h3>
 	
-- [Sports Products Multi-Class Classification](https://github.com/Ahmed-Abdo-Amin/SportsProductsMulti-ClassClassification)
+- [Sports Products Multi-Class Classification](https://github.com/Ahmed-Abdo-Amin/SportsProductsMulti-ClassClassification) | Using ResNet, VGG, and AlexNet Models to classify the different types of sports or their equipment.
 - [Glaucoma Detection Using Fudous Images And Convolution Neural Network](https://github.com/Ahmed-Abdo-Amin/Glaucoma_Detection_Using_Fudous_Images_And_Convolution_Neural_Network)
 - [Applying Machine Learning Models To Image Classification (the Cifar10 dataset)](https://github.com/Ahmed-Abdo-Amin/ApplyingMachineLearningModelsToImageClassification)
 - [Applying Deep Learning Models to Image Classification (Caltech-UCSD Birds-200-2011)](https://github.com/Ahmed-Abdo-Amin/ApplyingDeepLearningModelsToImageClassification)
@@ -84,7 +85,7 @@
 
 <h3> Reinforcement Learning (RL):</h3>	
 
-- [Atari Games using Q-Learning](https://github.com/Ahmed-Abdo-Amin/Atari_Games_using_Q-Learning_ReinforcementLearning)
+- [Atari Games using Q-Learning](https://github.com/Ahmed-Abdo-Amin/Atari_Games_using_Q-Learning_ReinforcementLearning) | Create brute-force function and Q learning function to get the average timestamps for going the target in some environments.
 
 
 
@@ -172,7 +173,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 </details>
 
 ### Kaggle-Competitions
-- [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic)
+- [Spaceship_Titanic](https://github.com/Ahmed-Abdo-Amin/Kaggle-Competitions/tree/main/Spaceship_Titanic) | Predict which passengers are transported to an alternate dimension.
 - [ELG7186 - Assignment 2](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
 
 ## Tasks:
