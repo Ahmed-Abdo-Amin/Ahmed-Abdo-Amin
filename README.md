@@ -8,9 +8,8 @@
 
 
 <!------------------------------------education-------------------------------------------->
-<h3 align="left">Education</h3>
 <p align="center"> 
-<strong>University of Ottawa, Canada</strong><br/>
+<strong>Education<br/>University of Ottawa, Canada</strong><br/>
 	Master of Electrical Engineering | <strong>Major</strong>: Data Science and AI. <br/>
 	<strong>Graduation Project:</strong> “End-to-End Speech Translation of Contemporary Egyptian Arabic Dialect”.<br/>
 	<strong>Sponsor:</strong> Microsoft<br/>
