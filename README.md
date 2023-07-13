@@ -8,6 +8,7 @@
 
 
 <!------------------------------------education-------------------------------------------->
+<h3 align="left">Education</h3>
 <p align="center"> 
 <strong>University of Ottawa, Canada</strong><br/>
 	Master of Electrical Engineering | <strong>Major</strong>: Data Science and AI. <br/>
