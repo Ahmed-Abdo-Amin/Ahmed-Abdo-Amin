@@ -45,6 +45,7 @@
 <h3> Data analysis and Business intelligence</h3>
 
 - [Adventure Works Cycles' analysis project](https://lnkd.in/dWwnRa9T) | This project extracts insights from Adventure Works CSV files, which can be found at this link: [click here](https://lnkd.in/dkFn_xsc).
+- [Exploratory Data Analysis - Retail](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task3-gripmarch23-thesparksfoundation-activity-7043035928621125632-BWlE?utm_source=share&utm_medium=member_desktop) | Find out the weak areas where you can work to make more profit.
 - [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
 
 
@@ -61,6 +62,8 @@ search to select the best hyper parameters and do dimensionality reduction and f
 - [A Fake Task Filtering Security Layer using CGAN (Conditional GAN)](https://github.com/Ahmed-Abdo-Amin/A-Fake-Task-Filtering-Security-Layer-using-CGAN-Conditional-GAN) | Data generation using GANs, and use the discriminator as a classifier to detect suspicious and fake data.
 - [Detecting malicious Website Using its URL](https://github.com/Ahmed-Abdo-Amin/DetectingmaliciousWebsiteUsingitsURL1)
 - [Predicting data exfiltration via DNS](https://github.com/Ahmed-Abdo-Amin/PredictingdataexfiltrationviaDNS)
+- [Prediction using Supervised ML](https://github.com/Ahmed-Abdo-Amin/-Internship_Spark_Foundation/blob/main/DataScience%26BusinessAnalyticsTasks/Task1-Prediction-using-SupervisedML) | Predict the percentage of an student based on the no. of study hours.
+- [Prediction using Unsupervised ML](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task2-gripmarch23-thesparksfoundation-activity-7040025445966176256-l8VT?utm_source=share&utm_medium=member_desktop) | From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 <h3> Natural Language Processing (NLP):</h3>
 	
@@ -173,12 +176,6 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 - [ELG7186 - Assignment 2](https://www.kaggle.com/competitions/assignment-2-binary-classifier/leaderboard)
 
 ## Tasks:
-### Data Science & Business Analytics Tasks [click here](https://github.com/Ahmed-Abdo-Amin/-Internship_Spark_Foundation/blob/main/DataScience%26BusinessAnalyticsTasks)
-
-- [Prediction using Supervised ML](https://github.com/Ahmed-Abdo-Amin/-Internship_Spark_Foundation/blob/main/DataScience%26BusinessAnalyticsTasks/Task1-Prediction-using-SupervisedML) | Predict the percentage of an student based on the no. of study hours.
-- [Prediction using Unsupervised ML](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task2-gripmarch23-thesparksfoundation-activity-7040025445966176256-l8VT?utm_source=share&utm_medium=member_desktop) | From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
-- [Exploratory Data Analysis - Retail](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task3-gripmarch23-thesparksfoundation-activity-7043035928621125632-BWlE?utm_source=share&utm_medium=member_desktop) | Find out the weak areas where you can work to make more profit.
-
 ### Application Security and Monitoring:
   
 - [Hands-on Lab Monitoring in Action with Prometheus](https://github.com/Ahmed-Abdo-Amin/Hands-on-Lab-Monitoring-in-Action-with-Prometheus/tree/main) | In this lab, you will become familiar with using Prometheus to monitor sample servers simulated with node exporter.
