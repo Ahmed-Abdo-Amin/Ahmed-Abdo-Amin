@@ -44,7 +44,7 @@
 
 <h3> Data analysis and Business intelligence</h3>
 
-- [Adventure Works Cycles' analysis project](https://lnkd.in/dWwnRa9T) | This project extracts insights from Adventure Works CSV files, which can be found at this link: [click here](https://lnkd.in/dkFn_xsc).
+- [Adventure Works Cycles' analysis project](https://lnkd.in/dWwnRa9T) | this project used Power BI to extract insights from Adventure Works CSV files, which can be found at this link: [click here](https://lnkd.in/dkFn_xsc).
 - [Exploratory Data Analysis - Retail](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task3-gripmarch23-thesparksfoundation-activity-7043035928621125632-BWlE?utm_source=share&utm_medium=member_desktop) | Find out the weak areas where you can work to make more profit.
 - [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
 
