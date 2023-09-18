@@ -13,7 +13,7 @@
 <a href="https://www.novypro.com/profile_projects/ahmedabdo" target="blank"><img align="center" src="https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/f1652315708983x844618127003955700/novyPro%20SVG%20full%20Logo%20White%20Text.svg" height="40" width="80"/></a>
 <a href="https://wuzzuf.net/me/AhmedAbdo-AminAbdo-a0f9a2a8be" target="blank"><img align="center" src="./Images_pre/wuzzuf-log.png" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ahmedabdoamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmedabdoamin" height="30" width="40" /></a>
-<a href="https://www.credly.com/earner/earned" target="blank"><img align="center" src=".\Images_pre\credly.png" alt="" height="50" width="80" /></a>
+<a href="https://www.credly.com/earner/earned" target="blank"><img align="center" src=".\Images_pre\credly.png" alt="" height="80" width="40" /></a>
 <a href="https://www.hackerrank.com/ahmedabdoamin997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ahmedabdoamin997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>
 <a href="https://huggingface.co/Ahmed997Abdo" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="" height="30" width="40" /></a>
