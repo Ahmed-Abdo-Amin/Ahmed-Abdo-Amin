@@ -35,6 +35,8 @@
 	
 <h3> Data or Big Data engineering </h3>
 
+- [US Federal Campaign Finance Data 1990–2016 Analysis Project](https://github.com/Ahmed-Abdo-Amin/USFederalCampaignFinanceData1990_2016AnalysisProject) | design, implement, and improve the Spark application to answer some interesting questions that we should be able to answer using this dataset:How do the individual contributions of each course evolve over time?, How are contributions affected by a presidential election year versus a midterm election?, How does the industry or ideology of the donor influence individual contributions?
+
  - [Data Modeling with Postgres](https://github.com/Ahmed-Abdo-Amin/UDACITY-DataEngineeringNanodegree/blob/main/1.Module01-DataModeling/Project_Data_Modeling_with_Postgres) | Analyzing the songs of Sparkify by applying data modelling with Postgres and building an ETL pipeline using Python.
 - [Project_Data_Modeling_with_Apache_Cassandra](https://github.com/Ahmed-Abdo-Amin/UDACITY-DataEngineeringNanodegree/blob/main/1.Module01-DataModeling/Project_Data_Modeling_with_Apache_Cassandra) | Analyzing the songs of Sparkify by applying data modelling with Apache Cassandra and building an ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables.
 - [A prediction of customer churn rate in the telecom industry and determination of the associations between items purchased.](https://github.com/Ahmed-Abdo-Amin/A_prediction_of_customer_churn_rate_and_-the_associations_between_items_purchased)
