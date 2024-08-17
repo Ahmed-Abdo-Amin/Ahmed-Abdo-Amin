@@ -56,7 +56,7 @@
 - [Health Care Analysis project](https://github.com/Ahmed-Abdo-Amin/Five-PowerBI-Projects-for-Medicine/blob/main/Health%20Care%20Analysis%20Dashboard)| We analyzed the Health Care dataset by using the Power BI tool, so we extracted useful information such as Day Wise Schedule Appointment, Call Reason, Location Wise Cases Counts, Covid Test, and others.
 - [Medicare Inpatient 2017 Charges project](https://github.com/Ahmed-Abdo-Amin/Five-PowerBI-Projects-for-Medicine/blob/main/Medicare%20Inpatient%202017)| We analyzed the Medicare Inpatient 2017 dataset by using the Power BI tool, so we extracted useful information such as Average Total Payments and Average Medicare Payments by Provider Name, Average Total Payments by Provider State, and others.
 - [Adventure Works Cycles' analysis project](https://lnkd.in/dWwnRa9T) | this project used Power BI to extract insights from Adventure Works CSV files, which can be found at this link: [click here](https://lnkd.in/dkFn_xsc).
-- [Exploratory Data Analysis - Retail](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task3-gripmarch23-thesparksfoundation-activity-7043035928621125632-BWlE?utm_source=share&utm_medium=member_desktop) | Find out the weak areas where you can work to make more profit.
+- [Exploratory Data Analysis - Retail](https://www.linkedin.com/in/ahmed-abdo-eg_task3-gripmarch23-thesparksfoundation-activity-7043035928621125632-BWlE?utm_source=share&utm_medium=member_desktop) | Find out the weak areas where you can work to make more profit.
 - [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
 
 
@@ -74,7 +74,7 @@ search to select the best hyper parameters and do dimensionality reduction and f
 - [Detecting malicious Website Using its URL](https://github.com/Ahmed-Abdo-Amin/DetectingmaliciousWebsiteUsingitsURL1) | We use machine learning and deep learning models such as random forest, extra tree, Adaboost, Gaussian Naive Bayes, and CNN-BiLSTM on the dataset, which contains 651,191 URLs.
 - [Predicting data exfiltration via DNS](https://github.com/Ahmed-Abdo-Amin/PredictingdataexfiltrationviaDNS)
 - [Prediction using Supervised ML](https://github.com/Ahmed-Abdo-Amin/-Internship_Spark_Foundation/blob/main/DataScience%26BusinessAnalyticsTasks/Task1-Prediction-using-SupervisedML) | Predict the percentage of an student based on the no. of study hours.
-- [Prediction using Unsupervised ML](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_task2-gripmarch23-thesparksfoundation-activity-7040025445966176256-l8VT?utm_source=share&utm_medium=member_desktop) | From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+- [Prediction using Unsupervised ML](https://www.linkedin.com/in/ahmed-abdo-eg_task2-gripmarch23-thesparksfoundation-activity-7040025445966176256-l8VT?utm_source=share&utm_medium=member_desktop) | From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 <h3> Natural Language Processing (NLP):</h3>
 	
@@ -176,7 +176,7 @@ Learn SQL with simple, interactive exercises [Click here to see the solutions](h
 03/2023	Data Science & Business Analytics | Remote, The Sparks Foundation [Click here to see the details](https://truecertificates.com/verified/Y3R8MFGK6L)<br>
 03/2023	Python for Data Science, AI & Development, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/XAQUHLSRCD5N)<br>
 03/2023 Problem Solving (Intermediate) Certificate, HackerRank [Click here to see the details](https://www.hackerrank.com/certificates/19ee93f5caf4)<br>
-04/2023 Nanodegree Data Analysis Challenger Certificate, Udacity [Click here to see the details](https://www.linkedin.com/posts/ahmed-abdo-amin-abdo-b17193213_data-analysis-challenger-activity-7048793434626637824-jf9x?utm_source=share&utm_medium=member_desktop)<br>
+04/2023 Nanodegree Data Analysis Challenger Certificate, Udacity [Click here to see the details](https://www.linkedin.com/in/ahmed-abdo-eg_data-analysis-challenger-activity-7048793434626637824-jf9x?utm_source=share&utm_medium=member_desktop)<br>
 04/2023 Introduction to Big Data with Spark and Hadoop, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/TTDT2HV5KQCU)<br>
 05/2023 Introduction to NoSQL Databases, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/4F68EPCLK4LH)<br>
 06/2023 Application Security and Monitoring, IBM [Click here to see the details](https://www.coursera.org/account/accomplishments/certificate/ZQA9FZSLXMEL)<br>
