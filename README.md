@@ -56,7 +56,7 @@
 - [Health Care Analysis project](https://github.com/Ahmed-Abdo-Amin/Five-PowerBI-Projects-for-Medicine/blob/main/Health%20Care%20Analysis%20Dashboard)| We analyzed the Health Care dataset by using the Power BI tool, so we extracted useful information such as Day Wise Schedule Appointment, Call Reason, Location Wise Cases Counts, Covid Test, and others.
 - [Medicare Inpatient 2017 Charges project](https://github.com/Ahmed-Abdo-Amin/Five-PowerBI-Projects-for-Medicine/blob/main/Medicare%20Inpatient%202017)| We analyzed the Medicare Inpatient 2017 dataset by using the Power BI tool, so we extracted useful information such as Average Total Payments and Average Medicare Payments by Provider Name, Average Total Payments by Provider State, and others.
 - [Adventure Works Cycles' analysis project](https://lnkd.in/dWwnRa9T) | this project used Power BI to extract insights from Adventure Works CSV files, which can be found at this link: [click here](https://lnkd.in/dkFn_xsc).
-- [Exploratory Data Analysis - Retail](https://www.linkedin.com/in/ahmed-abdo-eg_task3-gripmarch23-thesparksfoundation-activity-7043035928621125632-BWlE?utm_source=share&utm_medium=member_desktop) | Find out the weak areas where you can work to make more profit.
+- [Exploratory Data Analysis - Retail](https://github.com/Ahmed-Abdo-Amin/-Internship_Spark_Foundation/tree/main/DataScience&BusinessAnalyticsTasks/Task3-Exploratory-Data-Analysis-Retail) | Find out the weak areas where you can work to make more profit.
 - [Using MongoDB and Cassandra in analysis for both the movies' database and the Sales Manager database](https://github.com/Ahmed-Abdo-Amin/UsingMongoDBandCassandrainanalysisforboththemoviesdatabaseandtheSalesManagerdatabase)
 
 
