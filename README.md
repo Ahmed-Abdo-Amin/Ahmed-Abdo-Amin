@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> 
+<p> 
 <a href="https://www.linkedin.com/in/ahmed-abdo-amin-abdo-b17193213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
 <a href="https://www.novypro.com/profile_projects/ahmedabdo" target="blank"><img align="center" src="./Images_pre/novyPro-icon.png" height="50"/></a>
 <a href="https://wuzzuf.net/me/AhmedAbdo-AminAbdo-a0f9a2a8be" target="blank"><img align="center" src="./Images_pre/wuzzuf-log.png" height="30" width="40" /></a>
