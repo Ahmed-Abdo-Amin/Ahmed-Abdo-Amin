@@ -3,7 +3,7 @@
 	
 <div id="header" align="center">
   <img src=".\Images_pre\Data.gif" width="400" style="border-radius:31%"/>
-  <h2 align="center"> Data Analyst | Data Scientist </h2>
+  <h2 align="center"> AI Engineer | Data Scientist </h2>
 </div>
 
 <h3 align="left">Connect with me:</h3>
