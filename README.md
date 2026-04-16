@@ -7,13 +7,75 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
- <div>
-<a href="https://www.linkedin.com/in/ahmed-abdo-eg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a> <a href="https://www.novypro.com/profile_projects/ahmedabdo" target="blank"><img align="center" src="./Images_pre/novyPro-icon.png" height="50"/></a> <a href="https://wuzzuf.net/me/AhmedAbdo-AminAbdo-a0f9a2a8be" target="blank"><img align="center" src="./Images_pre/wuzzuf-log.png" height="30" width="40" /></a> <a href="https://www.kaggle.com/ahmedabdoamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ahmedabdoamin" height="30" width="40" /></a> <a href="https://www.credly.com/earner/earned" target="blank"><img align="center" src=".\Images_pre\credly.png" alt="" height="80" width="40" /></a> <a href="https://www.hackerrank.com/ahmedabdoamin997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a> <a href="https://codeforces.com/profile/ahmedabdoamin997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a> <a href="https://huggingface.co/Ahmed997Abdo" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="" height="30" width="40" /></a> <a href="https://medium.com/@ahmedabdoamin997" target="blank"><img align="center" src=".\Images_pre\medium-logo.png" alt="" height="30" width="100" /></a><a href="https://app.datacamp.com/profile/AhmedAbdoAmin" target="blank"><img class="set" align="center" src=".\Images_pre\Data-Camp.png" alt="" height="50" width="50" /></a>
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <a href="https://www.linkedin.com/in/ahmed-abdo-eg/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+  </a>
+
+  <a href="https://www.novypro.com/profile_projects/ahmedabdo" target="_blank">
+    <img src="./Images_pre/novyPro-icon.png" height="50"/>
+  </a>
+
+  <a href="https://wuzzuf.net/me/AhmedAbdo-AminAbdo-a0f9a2a8be" target="_blank">
+    <img src="./Images_pre/wuzzuf-log.png" height="30"/>
+  </a>
+
+  <a href="https://www.kaggle.com/ahmedabdoamin" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30"/>
+  </a>
+
+  <a href="https://www.credly.com/earner/earned" target="_blank">
+    <img src="./Images_pre/credly.png" height="40"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/ahmedabdoamin997" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/ahmedabdoamin997" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30"/>
+  </a>
+
+  <a href="https://huggingface.co/Ahmed997Abdo" target="_blank">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30"/>
+  </a>
+
+  <a href="https://medium.com/@ahmedabdoamin997" target="_blank">
+    <img src="./Images_pre/medium-logo.png" height="30"/>
+  </a>
+
+  <a href="https://app.datacamp.com/profile/AhmedAbdoAmin" target="_blank">
+    <img src="./Images_pre/Data-Camp.png" height="40"/>
+  </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> <img src="./Images_pre/PowerBI.png" alt="aws" width="40" height="40"/> </a><a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="aws" width="120" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <a href="https://powerbi.microsoft.com/en-us/desktop/">
+    <img src="./Images_pre/PowerBI.png" height="40"/>
+  </a>
+
+  <a href="https://www.tableau.com/">
+    <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" height="40"/>
+  </a>
+
+  <a href="https://aws.amazon.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/>
+  </a>
+
+  <a href="https://www.python.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  </a>
+
+  <a href="https://pytorch.org/">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40"/>
+  </a>
+
+  <!-- كمل بنفس الطريقة لباقي الأدوات -->
+</div>
+
 
 # Projects
 
